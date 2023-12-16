@@ -19,7 +19,7 @@
     └─pig
 ```
 
-`hawkeye` 文件夹参考仓库[Belady-Cache-Replacement](https://github.com/hyerania/Belady-Cache-Replacement)和一个fork于ChampSim源仓库的仓库中中提供的[Hwakeye](https://github.com/brajskular/ChampSim/tree/master/replacement/hawkeye)(他可能fork于原仓库的某个分支，但我没找到)。实现了Jain&Lin在[Back to the Future: Leveraging Belady’s Algorithm for Improved Cache Replacement](https://www.cs.utexas.edu/~lin/papers/isca16.pdf)中提出的算法。
+`hawkeye` 文件夹参考仓库[Belady-Cache-Replacement](https://github.com/hyerania/Belady-Cache-Replacement)和一个fork于ChampSim源仓库的仓库中中提供的[Hawkeye](https://github.com/brajskular/ChampSim/tree/master/replacement/hawkeye)(他可能fork于原仓库的某个分支，但我没找到)。实现了Jain&Lin在[Back to the Future: Leveraging Belady’s Algorithm for Improved Cache Replacement](https://www.cs.utexas.edu/~lin/papers/isca16.pdf)中提出的算法。
 
 `harmony` 复现了Jain&Lin在[Rethinking Belady’s Algorithm to Accommodate Prefetching](https://www.cs.utexas.edu/~akanksha/isca18.pdf)中提出的算法。
 
