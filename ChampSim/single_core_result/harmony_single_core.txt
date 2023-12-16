@@ -1,0 +1,1080 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 5000000
+Simulation Instructions: 200000000
+Configuration: 2
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Channels: 1 Width: 64-bit Data Rate: 1600 MT/s
+
+CPU 0 runs trace/bzip2_10M.trace
+CPU 0 L1D next line prefetcher
+CPU 0 L2C IP-based stride prefetcher
+Initialize Harmony replacement policy state
+Finished initializing Harmony replacement policy state
+Heartbeat CPU 0 instructions: 1000002 cycles: 454524 heartbeat IPC: 2.20011 cumulative IPC: 2.20011 (Simulation time: 0 hr 0 min 2 sec) 
+Demand Hit Rate: 100
+FlenMINGen Hits: 87
+FlenMINGen Access: 58
+FLEXMINGEN Hit Rate: 150
+Heartbeat CPU 0 instructions: 2000001 cycles: 907792 heartbeat IPC: 2.2062 cumulative IPC: 2.20315 (Simulation time: 0 hr 0 min 4 sec) 
+Demand Hit Rate: 100
+FlenMINGen Hits: 144
+FlenMINGen Access: 110
+FLEXMINGEN Hit Rate: 130.909
+Heartbeat CPU 0 instructions: 3000002 cycles: 1353636 heartbeat IPC: 2.24294 cumulative IPC: 2.21625 (Simulation time: 0 hr 0 min 7 sec) 
+Demand Hit Rate: 100
+FlenMINGen Hits: 343
+FlenMINGen Access: 305
+FLEXMINGEN Hit Rate: 112.459
+Heartbeat CPU 0 instructions: 4000000 cycles: 1808294 heartbeat IPC: 2.19945 cumulative IPC: 2.21203 (Simulation time: 0 hr 0 min 9 sec) 
+Demand Hit Rate: 100
+FlenMINGen Hits: 510
+FlenMINGen Access: 472
+FLEXMINGEN Hit Rate: 108.051
+Heartbeat CPU 0 instructions: 5000003 cycles: 2186822 heartbeat IPC: 2.64182 cumulative IPC: 2.28642 (Simulation time: 0 hr 0 min 11 sec) 
+Demand Hit Rate: 99.7159
+FlenMINGen Hits: 747
+FlenMINGen Access: 704
+FLEXMINGEN Hit Rate: 106.108
+
+Warmup complete CPU 0 instructions: 5000003 cycles: 2186822 (Simulation time: 0 hr 0 min 11 sec) 
+
+Heartbeat CPU 0 instructions: 6000002 cycles: 3125521 heartbeat IPC: 1.0653 cumulative IPC: 1.0653 (Simulation time: 0 hr 0 min 13 sec) 
+Demand Hit Rate: 99.7549
+FlenMINGen Hits: 865
+FlenMINGen Access: 816
+FLEXMINGEN Hit Rate: 106.005
+Heartbeat CPU 0 instructions: 7000000 cycles: 3983844 heartbeat IPC: 1.16506 cumulative IPC: 1.11295 (Simulation time: 0 hr 0 min 15 sec) 
+Demand Hit Rate: 99.6454
+FlenMINGen Hits: 896
+FlenMINGen Access: 846
+FLEXMINGEN Hit Rate: 105.91
+Heartbeat CPU 0 instructions: 8000000 cycles: 5423356 heartbeat IPC: 0.69468 cumulative IPC: 0.926917 (Simulation time: 0 hr 0 min 17 sec) 
+Demand Hit Rate: 99.5666
+FlenMINGen Hits: 973
+FlenMINGen Access: 923
+FLEXMINGEN Hit Rate: 105.417
+Heartbeat CPU 0 instructions: 9000002 cycles: 6797348 heartbeat IPC: 0.727808 cumulative IPC: 0.86758 (Simulation time: 0 hr 0 min 19 sec) 
+Demand Hit Rate: 99.5846
+FlenMINGen Hits: 1016
+FlenMINGen Access: 963
+FLEXMINGEN Hit Rate: 105.504
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 10000001 cycles: 8402309 heartbeat IPC: 0.623067 cumulative IPC: 0.804442 (Simulation time: 0 hr 0 min 21 sec) 
+Demand Hit Rate: 99.6187
+FlenMINGen Hits: 1112
+FlenMINGen Access: 1049
+FLEXMINGEN Hit Rate: 106.006
+Heartbeat CPU 0 instructions: 11000002 cycles: 9823837 heartbeat IPC: 0.703469 cumulative IPC: 0.785647 (Simulation time: 0 hr 0 min 23 sec) 
+Demand Hit Rate: 99.6383
+FlenMINGen Hits: 1169
+FlenMINGen Access: 1106
+FLEXMINGEN Hit Rate: 105.696
+Heartbeat CPU 0 instructions: 12000000 cycles: 11323865 heartbeat IPC: 0.666653 cumulative IPC: 0.766112 (Simulation time: 0 hr 0 min 25 sec) 
+Demand Hit Rate: 99.6546
+FlenMINGen Hits: 1222
+FlenMINGen Access: 1158
+FLEXMINGEN Hit Rate: 105.527
+Heartbeat CPU 0 instructions: 13000002 cycles: 12805388 heartbeat IPC: 0.674982 cumulative IPC: 0.753397 (Simulation time: 0 hr 0 min 28 sec) 
+Demand Hit Rate: 99.2636
+FlenMINGen Hits: 1418
+FlenMINGen Access: 1358
+FLEXMINGEN Hit Rate: 104.418
+Heartbeat CPU 0 instructions: 14000002 cycles: 13907897 heartbeat IPC: 0.907022 cumulative IPC: 0.767848 (Simulation time: 0 hr 0 min 30 sec) 
+Demand Hit Rate: 99.1475
+FlenMINGen Hits: 1582
+FlenMINGen Access: 1525
+FLEXMINGEN Hit Rate: 103.738
+Heartbeat CPU 0 instructions: 15000000 cycles: 14735989 heartbeat IPC: 1.20759 cumulative IPC: 0.796865 (Simulation time: 0 hr 0 min 32 sec) 
+Demand Hit Rate: 99.1319
+FlenMINGen Hits: 1904
+FlenMINGen Access: 1843
+FLEXMINGEN Hit Rate: 103.31
+Heartbeat CPU 0 instructions: 16000000 cycles: 15631786 heartbeat IPC: 1.11632 cumulative IPC: 0.81815 (Simulation time: 0 hr 0 min 34 sec) 
+Demand Hit Rate: 99.076
+FlenMINGen Hits: 2012
+FlenMINGen Access: 1948
+FLEXMINGEN Hit Rate: 103.285
+Heartbeat CPU 0 instructions: 17000000 cycles: 16443642 heartbeat IPC: 1.23175 cumulative IPC: 0.841702 (Simulation time: 0 hr 0 min 37 sec) 
+Demand Hit Rate: 99.0394
+FlenMINGen Hits: 2043
+FlenMINGen Access: 1978
+FLEXMINGEN Hit Rate: 103.286
+Heartbeat CPU 0 instructions: 18000000 cycles: 17798369 heartbeat IPC: 0.738156 cumulative IPC: 0.832717 (Simulation time: 0 hr 0 min 39 sec) 
+Demand Hit Rate: 98.9305
+FlenMINGen Hits: 2119
+FlenMINGen Access: 2057
+FLEXMINGEN Hit Rate: 103.014
+Heartbeat CPU 0 instructions: 19000002 cycles: 19168990 heartbeat IPC: 0.729598 cumulative IPC: 0.824394 (Simulation time: 0 hr 0 min 41 sec) 
+Demand Hit Rate: 98.9504
+FlenMINGen Hits: 2161
+FlenMINGen Access: 2096
+FLEXMINGEN Hit Rate: 103.101
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 20000000 cycles: 20767817 heartbeat IPC: 0.625457 cumulative IPC: 0.807276 (Simulation time: 0 hr 0 min 43 sec) 
+Demand Hit Rate: 98.9918
+FlenMINGen Hits: 2256
+FlenMINGen Access: 2182
+FLEXMINGEN Hit Rate: 103.391
+Heartbeat CPU 0 instructions: 21000002 cycles: 22182761 heartbeat IPC: 0.706743 cumulative IPC: 0.800162 (Simulation time: 0 hr 0 min 45 sec) 
+Demand Hit Rate: 99.0179
+FlenMINGen Hits: 2314
+FlenMINGen Access: 2240
+FLEXMINGEN Hit Rate: 103.304
+Heartbeat CPU 0 instructions: 22000001 cycles: 23680680 heartbeat IPC: 0.667592 cumulative IPC: 0.790924 (Simulation time: 0 hr 0 min 47 sec) 
+Demand Hit Rate: 99.0406
+FlenMINGen Hits: 2368
+FlenMINGen Access: 2293
+FLEXMINGEN Hit Rate: 103.271
+Heartbeat CPU 0 instructions: 23000002 cycles: 25160307 heartbeat IPC: 0.675847 cumulative IPC: 0.783512 (Simulation time: 0 hr 0 min 50 sec) 
+Demand Hit Rate: 98.8367
+FlenMINGen Hits: 2563
+FlenMINGen Access: 2493
+FLEXMINGEN Hit Rate: 102.808
+Heartbeat CPU 0 instructions: 24000000 cycles: 26264617 heartbeat IPC: 0.905541 cumulative IPC: 0.789109 (Simulation time: 0 hr 0 min 52 sec) 
+Demand Hit Rate: 98.7979
+FlenMINGen Hits: 2729
+FlenMINGen Access: 2662
+FLEXMINGEN Hit Rate: 102.517
+Heartbeat CPU 0 instructions: 25000003 cycles: 27094255 heartbeat IPC: 1.20535 cumulative IPC: 0.802973 (Simulation time: 0 hr 0 min 54 sec) 
+Demand Hit Rate: 98.8255
+FlenMINGen Hits: 3049
+FlenMINGen Access: 2980
+FLEXMINGEN Hit Rate: 102.315
+Heartbeat CPU 0 instructions: 26000002 cycles: 27989270 heartbeat IPC: 1.1173 cumulative IPC: 0.813876 (Simulation time: 0 hr 0 min 56 sec) 
+Demand Hit Rate: 98.8034
+FlenMINGen Hits: 3165
+FlenMINGen Access: 3092
+FLEXMINGEN Hit Rate: 102.361
+Heartbeat CPU 0 instructions: 27000000 cycles: 28802730 heartbeat IPC: 1.22931 cumulative IPC: 0.826573 (Simulation time: 0 hr 0 min 58 sec) 
+Demand Hit Rate: 98.7828
+FlenMINGen Hits: 3196
+FlenMINGen Access: 3122
+FLEXMINGEN Hit Rate: 102.37
+Heartbeat CPU 0 instructions: 28000000 cycles: 30157425 heartbeat IPC: 0.738174 cumulative IPC: 0.822292 (Simulation time: 0 hr 1 min 0 sec) 
+Demand Hit Rate: 98.7183
+FlenMINGen Hits: 3271
+FlenMINGen Access: 3199
+FLEXMINGEN Hit Rate: 102.251
+Heartbeat CPU 0 instructions: 29000002 cycles: 31526665 heartbeat IPC: 0.730334 cumulative IPC: 0.818 (Simulation time: 0 hr 1 min 3 sec) 
+Demand Hit Rate: 98.7342
+FlenMINGen Hits: 3314
+FlenMINGen Access: 3239
+FLEXMINGEN Hit Rate: 102.316
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 30000001 cycles: 33124132 heartbeat IPC: 0.62599 cumulative IPC: 0.808086 (Simulation time: 0 hr 1 min 5 sec) 
+Demand Hit Rate: 98.7665
+FlenMINGen Hits: 3409
+FlenMINGen Access: 3324
+FLEXMINGEN Hit Rate: 102.557
+Heartbeat CPU 0 instructions: 31000002 cycles: 34538178 heartbeat IPC: 0.707191 cumulative IPC: 0.803676 (Simulation time: 0 hr 1 min 7 sec) 
+Demand Hit Rate: 98.7873
+FlenMINGen Hits: 3466
+FlenMINGen Access: 3381
+FLEXMINGEN Hit Rate: 102.514
+Heartbeat CPU 0 instructions: 32000000 cycles: 36035089 heartbeat IPC: 0.668041 cumulative IPC: 0.797677 (Simulation time: 0 hr 1 min 9 sec) 
+Demand Hit Rate: 98.8057
+FlenMINGen Hits: 3519
+FlenMINGen Access: 3433
+FLEXMINGEN Hit Rate: 102.505
+Heartbeat CPU 0 instructions: 33000002 cycles: 37515656 heartbeat IPC: 0.675418 cumulative IPC: 0.792554 (Simulation time: 0 hr 1 min 11 sec) 
+Demand Hit Rate: 98.7063
+FlenMINGen Hits: 3716
+FlenMINGen Access: 3633
+FLEXMINGEN Hit Rate: 102.285
+Heartbeat CPU 0 instructions: 34000002 cycles: 38619326 heartbeat IPC: 0.906068 cumulative IPC: 0.795992 (Simulation time: 0 hr 1 min 13 sec) 
+Demand Hit Rate: 98.6846
+FlenMINGen Hits: 3882
+FlenMINGen Access: 3801
+FLEXMINGEN Hit Rate: 102.131
+Heartbeat CPU 0 instructions: 35000000 cycles: 39446272 heartbeat IPC: 1.20927 cumulative IPC: 0.805165 (Simulation time: 0 hr 1 min 16 sec) 
+Demand Hit Rate: 98.7133
+FlenMINGen Hits: 4204
+FlenMINGen Access: 4119
+FLEXMINGEN Hit Rate: 102.064
+Heartbeat CPU 0 instructions: 36000000 cycles: 40341833 heartbeat IPC: 1.11662 cumulative IPC: 0.812475 (Simulation time: 0 hr 1 min 18 sec) 
+Demand Hit Rate: 98.7216
+FlenMINGen Hits: 4313
+FlenMINGen Access: 4224
+FLEXMINGEN Hit Rate: 102.107
+Heartbeat CPU 0 instructions: 37000000 cycles: 41155216 heartbeat IPC: 1.22943 cumulative IPC: 0.821178 (Simulation time: 0 hr 1 min 20 sec) 
+Demand Hit Rate: 98.7071
+FlenMINGen Hits: 4344
+FlenMINGen Access: 4254
+FLEXMINGEN Hit Rate: 102.116
+Heartbeat CPU 0 instructions: 38000000 cycles: 42510201 heartbeat IPC: 0.738016 cumulative IPC: 0.818384 (Simulation time: 0 hr 1 min 22 sec) 
+Demand Hit Rate: 98.6614
+FlenMINGen Hits: 4420
+FlenMINGen Access: 4333
+FLEXMINGEN Hit Rate: 102.008
+Heartbeat CPU 0 instructions: 39000002 cycles: 43880826 heartbeat IPC: 0.729596 cumulative IPC: 0.815465 (Simulation time: 0 hr 1 min 24 sec) 
+Demand Hit Rate: 98.6734
+FlenMINGen Hits: 4462
+FlenMINGen Access: 4372
+FLEXMINGEN Hit Rate: 102.059
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 40000000 cycles: 45480044 heartbeat IPC: 0.625304 cumulative IPC: 0.808441 (Simulation time: 0 hr 1 min 26 sec) 
+Demand Hit Rate: 98.699
+FlenMINGen Hits: 4557
+FlenMINGen Access: 4458
+FLEXMINGEN Hit Rate: 102.221
+Heartbeat CPU 0 instructions: 41000002 cycles: 46895989 heartbeat IPC: 0.706244 cumulative IPC: 0.805204 (Simulation time: 0 hr 1 min 28 sec) 
+Demand Hit Rate: 98.7157
+FlenMINGen Hits: 4615
+FlenMINGen Access: 4516
+FLEXMINGEN Hit Rate: 102.192
+Heartbeat CPU 0 instructions: 42000001 cycles: 48393450 heartbeat IPC: 0.667796 cumulative IPC: 0.800751 (Simulation time: 0 hr 1 min 30 sec) 
+Demand Hit Rate: 98.7306
+FlenMINGen Hits: 4669
+FlenMINGen Access: 4569
+FLEXMINGEN Hit Rate: 102.189
+Heartbeat CPU 0 instructions: 43000002 cycles: 49872646 heartbeat IPC: 0.676044 cumulative IPC: 0.796883 (Simulation time: 0 hr 1 min 32 sec) 
+Demand Hit Rate: 98.637
+FlenMINGen Hits: 4865
+FlenMINGen Access: 4769
+FLEXMINGEN Hit Rate: 102.013
+Heartbeat CPU 0 instructions: 44000000 cycles: 50976640 heartbeat IPC: 0.9058 cumulative IPC: 0.799347 (Simulation time: 0 hr 1 min 34 sec) 
+Demand Hit Rate: 98.6229
+FlenMINGen Hits: 5032
+FlenMINGen Access: 4938
+FLEXMINGEN Hit Rate: 101.904
+Heartbeat CPU 0 instructions: 45000003 cycles: 51803105 heartbeat IPC: 1.20998 cumulative IPC: 0.806187 (Simulation time: 0 hr 1 min 37 sec) 
+Demand Hit Rate: 98.6492
+FlenMINGen Hits: 5352
+FlenMINGen Access: 5256
+FLEXMINGEN Hit Rate: 101.826
+Heartbeat CPU 0 instructions: 46000002 cycles: 52697640 heartbeat IPC: 1.1179 cumulative IPC: 0.811707 (Simulation time: 0 hr 1 min 39 sec) 
+Demand Hit Rate: 98.6401
+FlenMINGen Hits: 5468
+FlenMINGen Access: 5368
+FLEXMINGEN Hit Rate: 101.863
+Heartbeat CPU 0 instructions: 47000000 cycles: 53511513 heartbeat IPC: 1.22869 cumulative IPC: 0.81832 (Simulation time: 0 hr 1 min 41 sec) 
+Demand Hit Rate: 98.6291
+FlenMINGen Hits: 5499
+FlenMINGen Access: 5398
+FLEXMINGEN Hit Rate: 101.871
+Heartbeat CPU 0 instructions: 48000000 cycles: 54866188 heartbeat IPC: 0.738184 cumulative IPC: 0.816259 (Simulation time: 0 hr 1 min 43 sec) 
+Demand Hit Rate: 98.5936
+FlenMINGen Hits: 5574
+FlenMINGen Access: 5475
+FLEXMINGEN Hit Rate: 101.808
+Heartbeat CPU 0 instructions: 49000002 cycles: 56235188 heartbeat IPC: 0.730462 cumulative IPC: 0.814086 (Simulation time: 0 hr 1 min 45 sec) 
+Demand Hit Rate: 98.6038
+FlenMINGen Hits: 5617
+FlenMINGen Access: 5515
+FLEXMINGEN Hit Rate: 101.85
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 50000001 cycles: 57833163 heartbeat IPC: 0.625791 cumulative IPC: 0.808678 (Simulation time: 0 hr 1 min 47 sec) 
+Demand Hit Rate: 98.625
+FlenMINGen Hits: 5712
+FlenMINGen Access: 5600
+FLEXMINGEN Hit Rate: 102
+Heartbeat CPU 0 instructions: 51000002 cycles: 59247907 heartbeat IPC: 0.706842 cumulative IPC: 0.806154 (Simulation time: 0 hr 1 min 49 sec) 
+Demand Hit Rate: 98.6389
+FlenMINGen Hits: 5769
+FlenMINGen Access: 5657
+FLEXMINGEN Hit Rate: 101.98
+Heartbeat CPU 0 instructions: 52000000 cycles: 60745317 heartbeat IPC: 0.667818 cumulative IPC: 0.802616 (Simulation time: 0 hr 1 min 51 sec) 
+Demand Hit Rate: 98.6513
+FlenMINGen Hits: 5822
+FlenMINGen Access: 5709
+FLEXMINGEN Hit Rate: 101.979
+Heartbeat CPU 0 instructions: 53000002 cycles: 62225568 heartbeat IPC: 0.675562 cumulative IPC: 0.799484 (Simulation time: 0 hr 1 min 53 sec) 
+Demand Hit Rate: 98.5954
+FlenMINGen Hits: 6018
+FlenMINGen Access: 5909
+FLEXMINGEN Hit Rate: 101.845
+Heartbeat CPU 0 instructions: 54000002 cycles: 63329741 heartbeat IPC: 0.905655 cumulative IPC: 0.801401 (Simulation time: 0 hr 1 min 55 sec) 
+Demand Hit Rate: 98.5846
+FlenMINGen Hits: 6183
+FlenMINGen Access: 6076
+FLEXMINGEN Hit Rate: 101.761
+Heartbeat CPU 0 instructions: 55000000 cycles: 64157628 heartbeat IPC: 1.20789 cumulative IPC: 0.806831 (Simulation time: 0 hr 1 min 57 sec) 
+Demand Hit Rate: 98.6079
+FlenMINGen Hits: 6504
+FlenMINGen Access: 6393
+FLEXMINGEN Hit Rate: 101.736
+Heartbeat CPU 0 instructions: 56000000 cycles: 65053875 heartbeat IPC: 1.11576 cumulative IPC: 0.811236 (Simulation time: 0 hr 1 min 59 sec) 
+Demand Hit Rate: 98.615
+FlenMINGen Hits: 6613
+FlenMINGen Access: 6498
+FLEXMINGEN Hit Rate: 101.77
+Heartbeat CPU 0 instructions: 57000000 cycles: 65867992 heartbeat IPC: 1.22832 cumulative IPC: 0.816568 (Simulation time: 0 hr 2 min 1 sec) 
+Demand Hit Rate: 98.606
+FlenMINGen Hits: 6644
+FlenMINGen Access: 6528
+FLEXMINGEN Hit Rate: 101.777
+Heartbeat CPU 0 instructions: 58000000 cycles: 67224611 heartbeat IPC: 0.737127 cumulative IPC: 0.814911 (Simulation time: 0 hr 2 min 3 sec) 
+Demand Hit Rate: 98.5773
+FlenMINGen Hits: 6720
+FlenMINGen Access: 6607
+FLEXMINGEN Hit Rate: 101.71
+Heartbeat CPU 0 instructions: 59000002 cycles: 68595233 heartbeat IPC: 0.729597 cumulative IPC: 0.81315 (Simulation time: 0 hr 2 min 5 sec) 
+Demand Hit Rate: 98.5856
+FlenMINGen Hits: 6762
+FlenMINGen Access: 6646
+FLEXMINGEN Hit Rate: 101.745
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 60000000 cycles: 70194491 heartbeat IPC: 0.625289 cumulative IPC: 0.808732 (Simulation time: 0 hr 2 min 7 sec) 
+Demand Hit Rate: 98.6037
+FlenMINGen Hits: 6857
+FlenMINGen Access: 6732
+FLEXMINGEN Hit Rate: 101.857
+Heartbeat CPU 0 instructions: 61000002 cycles: 71610649 heartbeat IPC: 0.706137 cumulative IPC: 0.806639 (Simulation time: 0 hr 2 min 9 sec) 
+Demand Hit Rate: 98.6156
+FlenMINGen Hits: 6915
+FlenMINGen Access: 6790
+FLEXMINGEN Hit Rate: 101.841
+Heartbeat CPU 0 instructions: 62000001 cycles: 73108509 heartbeat IPC: 0.667618 cumulative IPC: 0.803703 (Simulation time: 0 hr 2 min 12 sec) 
+Demand Hit Rate: 98.6263
+FlenMINGen Hits: 6969
+FlenMINGen Access: 6843
+FLEXMINGEN Hit Rate: 101.841
+Heartbeat CPU 0 instructions: 63000002 cycles: 74586358 heartbeat IPC: 0.67666 cumulative IPC: 0.80111 (Simulation time: 0 hr 2 min 14 sec) 
+Demand Hit Rate: 98.566
+FlenMINGen Hits: 7164
+FlenMINGen Access: 7043
+FLEXMINGEN Hit Rate: 101.718
+Heartbeat CPU 0 instructions: 64000000 cycles: 75690010 heartbeat IPC: 0.906081 cumulative IPC: 0.802686 (Simulation time: 0 hr 2 min 16 sec) 
+Demand Hit Rate: 98.558
+FlenMINGen Hits: 7330
+FlenMINGen Access: 7212
+FLEXMINGEN Hit Rate: 101.636
+Heartbeat CPU 0 instructions: 65000003 cycles: 76514061 heartbeat IPC: 1.21352 cumulative IPC: 0.807241 (Simulation time: 0 hr 2 min 18 sec) 
+Demand Hit Rate: 98.5788
+FlenMINGen Hits: 7649
+FlenMINGen Access: 7529
+FLEXMINGEN Hit Rate: 101.594
+Heartbeat CPU 0 instructions: 66000002 cycles: 77408799 heartbeat IPC: 1.11764 cumulative IPC: 0.810933 (Simulation time: 0 hr 2 min 20 sec) 
+Demand Hit Rate: 98.5735
+FlenMINGen Hits: 7765
+FlenMINGen Access: 7641
+FLEXMINGEN Hit Rate: 101.623
+Heartbeat CPU 0 instructions: 67000000 cycles: 78222042 heartbeat IPC: 1.22964 cumulative IPC: 0.815412 (Simulation time: 0 hr 2 min 22 sec) 
+Demand Hit Rate: 98.566
+FlenMINGen Hits: 7796
+FlenMINGen Access: 7671
+FLEXMINGEN Hit Rate: 101.63
+Heartbeat CPU 0 instructions: 68000000 cycles: 79576280 heartbeat IPC: 0.738423 cumulative IPC: 0.814064 (Simulation time: 0 hr 2 min 24 sec) 
+Demand Hit Rate: 98.5416
+FlenMINGen Hits: 7871
+FlenMINGen Access: 7748
+FLEXMINGEN Hit Rate: 101.588
+Heartbeat CPU 0 instructions: 69000002 cycles: 80945465 heartbeat IPC: 0.730363 cumulative IPC: 0.812609 (Simulation time: 0 hr 2 min 27 sec) 
+Demand Hit Rate: 98.549
+FlenMINGen Hits: 7914
+FlenMINGen Access: 7788
+FLEXMINGEN Hit Rate: 101.618
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 70000001 cycles: 82543012 heartbeat IPC: 0.625959 cumulative IPC: 0.808898 (Simulation time: 0 hr 2 min 29 sec) 
+Demand Hit Rate: 98.5647
+FlenMINGen Hits: 8009
+FlenMINGen Access: 7873
+FLEXMINGEN Hit Rate: 101.727
+Heartbeat CPU 0 instructions: 71000002 cycles: 83957829 heartbeat IPC: 0.706806 cumulative IPC: 0.807132 (Simulation time: 0 hr 2 min 31 sec) 
+Demand Hit Rate: 98.575
+FlenMINGen Hits: 8066
+FlenMINGen Access: 7930
+FLEXMINGEN Hit Rate: 101.715
+Heartbeat CPU 0 instructions: 72000000 cycles: 85455042 heartbeat IPC: 0.667906 cumulative IPC: 0.804629 (Simulation time: 0 hr 2 min 33 sec) 
+Demand Hit Rate: 98.5843
+FlenMINGen Hits: 8119
+FlenMINGen Access: 7982
+FLEXMINGEN Hit Rate: 101.716
+Heartbeat CPU 0 instructions: 73000002 cycles: 86933502 heartbeat IPC: 0.676381 cumulative IPC: 0.802391 (Simulation time: 0 hr 2 min 35 sec) 
+Demand Hit Rate: 98.5456
+FlenMINGen Hits: 8316
+FlenMINGen Access: 8182
+FLEXMINGEN Hit Rate: 101.638
+Heartbeat CPU 0 instructions: 74000002 cycles: 88036772 heartbeat IPC: 0.906396 cumulative IPC: 0.803728 (Simulation time: 0 hr 2 min 37 sec) 
+Demand Hit Rate: 98.5389
+FlenMINGen Hits: 8482
+FlenMINGen Access: 8350
+FLEXMINGEN Hit Rate: 101.581
+Heartbeat CPU 0 instructions: 75000000 cycles: 88863590 heartbeat IPC: 1.20945 cumulative IPC: 0.807598 (Simulation time: 0 hr 2 min 39 sec) 
+Demand Hit Rate: 98.5577
+FlenMINGen Hits: 8803
+FlenMINGen Access: 8667
+FLEXMINGEN Hit Rate: 101.569
+Heartbeat CPU 0 instructions: 76000000 cycles: 89759066 heartbeat IPC: 1.11672 cumulative IPC: 0.810759 (Simulation time: 0 hr 2 min 41 sec) 
+Demand Hit Rate: 98.5636
+FlenMINGen Hits: 8912
+FlenMINGen Access: 8772
+FLEXMINGEN Hit Rate: 101.596
+Heartbeat CPU 0 instructions: 77000000 cycles: 90572134 heartbeat IPC: 1.22991 cumulative IPC: 0.814615 (Simulation time: 0 hr 2 min 43 sec) 
+Demand Hit Rate: 98.5571
+FlenMINGen Hits: 8943
+FlenMINGen Access: 8802
+FLEXMINGEN Hit Rate: 101.602
+Heartbeat CPU 0 instructions: 78000000 cycles: 91928192 heartbeat IPC: 0.737432 cumulative IPC: 0.813449 (Simulation time: 0 hr 2 min 45 sec) 
+Demand Hit Rate: 98.5362
+FlenMINGen Hits: 9019
+FlenMINGen Access: 8881
+FLEXMINGEN Hit Rate: 101.554
+Heartbeat CPU 0 instructions: 79000002 cycles: 93298813 heartbeat IPC: 0.729598 cumulative IPC: 0.812187 (Simulation time: 0 hr 2 min 47 sec) 
+Demand Hit Rate: 98.5426
+FlenMINGen Hits: 9061
+FlenMINGen Access: 8920
+FLEXMINGEN Hit Rate: 101.581
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 80000000 cycles: 94897732 heartbeat IPC: 0.625421 cumulative IPC: 0.808966 (Simulation time: 0 hr 2 min 50 sec) 
+Demand Hit Rate: 98.5565
+FlenMINGen Hits: 9156
+FlenMINGen Access: 9006
+FLEXMINGEN Hit Rate: 101.666
+Heartbeat CPU 0 instructions: 81000002 cycles: 96313813 heartbeat IPC: 0.706176 cumulative IPC: 0.80742 (Simulation time: 0 hr 2 min 51 sec) 
+Demand Hit Rate: 98.5658
+FlenMINGen Hits: 9214
+FlenMINGen Access: 9064
+FLEXMINGEN Hit Rate: 101.655
+Heartbeat CPU 0 instructions: 82000001 cycles: 97811992 heartbeat IPC: 0.667476 cumulative IPC: 0.805227 (Simulation time: 0 hr 2 min 53 sec) 
+Demand Hit Rate: 98.5741
+FlenMINGen Hits: 9268
+FlenMINGen Access: 9117
+FLEXMINGEN Hit Rate: 101.656
+Heartbeat CPU 0 instructions: 83000002 cycles: 99288749 heartbeat IPC: 0.67716 cumulative IPC: 0.80328 (Simulation time: 0 hr 2 min 55 sec) 
+Demand Hit Rate: 98.5296
+FlenMINGen Hits: 9464
+FlenMINGen Access: 9317
+FLEXMINGEN Hit Rate: 101.578
+Heartbeat CPU 0 instructions: 84000000 cycles: 100391654 heartbeat IPC: 0.906695 cumulative IPC: 0.804441 (Simulation time: 0 hr 2 min 57 sec) 
+Demand Hit Rate: 98.5241
+FlenMINGen Hits: 9630
+FlenMINGen Access: 9486
+FLEXMINGEN Hit Rate: 101.518
+Heartbeat CPU 0 instructions: 85000003 cycles: 101217647 heartbeat IPC: 1.21067 cumulative IPC: 0.807829 (Simulation time: 0 hr 3 min 0 sec) 
+Demand Hit Rate: 98.5413
+FlenMINGen Hits: 9949
+FlenMINGen Access: 9803
+FLEXMINGEN Hit Rate: 101.489
+Heartbeat CPU 0 instructions: 86000002 cycles: 102112797 heartbeat IPC: 1.11713 cumulative IPC: 0.8106 (Simulation time: 0 hr 3 min 2 sec) 
+Demand Hit Rate: 98.5376
+FlenMINGen Hits: 10065
+FlenMINGen Access: 9915
+FLEXMINGEN Hit Rate: 101.513
+Heartbeat CPU 0 instructions: 87000000 cycles: 102925225 heartbeat IPC: 1.23088 cumulative IPC: 0.813989 (Simulation time: 0 hr 3 min 4 sec) 
+Demand Hit Rate: 98.5319
+FlenMINGen Hits: 10096
+FlenMINGen Access: 9945
+FLEXMINGEN Hit Rate: 101.518
+Heartbeat CPU 0 instructions: 88000000 cycles: 104280258 heartbeat IPC: 0.737989 cumulative IPC: 0.812981 (Simulation time: 0 hr 3 min 6 sec) 
+Demand Hit Rate: 98.5133
+FlenMINGen Hits: 10171
+FlenMINGen Access: 10022
+FLEXMINGEN Hit Rate: 101.487
+Heartbeat CPU 0 instructions: 89000002 cycles: 105649443 heartbeat IPC: 0.730363 cumulative IPC: 0.811887 (Simulation time: 0 hr 3 min 8 sec) 
+Demand Hit Rate: 98.5192
+FlenMINGen Hits: 10214
+FlenMINGen Access: 10062
+FLEXMINGEN Hit Rate: 101.511
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 90000001 cycles: 107247076 heartbeat IPC: 0.625925 cumulative IPC: 0.80906 (Simulation time: 0 hr 3 min 10 sec) 
+Demand Hit Rate: 98.5316
+FlenMINGen Hits: 10309
+FlenMINGen Access: 10147
+FLEXMINGEN Hit Rate: 101.597
+Heartbeat CPU 0 instructions: 91000002 cycles: 108661651 heartbeat IPC: 0.706927 cumulative IPC: 0.807703 (Simulation time: 0 hr 3 min 12 sec) 
+Demand Hit Rate: 98.5398
+FlenMINGen Hits: 10366
+FlenMINGen Access: 10204
+FLEXMINGEN Hit Rate: 101.588
+Heartbeat CPU 0 instructions: 92000000 cycles: 110159574 heartbeat IPC: 0.66759 cumulative IPC: 0.805759 (Simulation time: 0 hr 3 min 14 sec) 
+Demand Hit Rate: 98.5472
+FlenMINGen Hits: 10419
+FlenMINGen Access: 10256
+FLEXMINGEN Hit Rate: 101.589
+Heartbeat CPU 0 instructions: 93000002 cycles: 111638764 heartbeat IPC: 0.676047 cumulative IPC: 0.804006 (Simulation time: 0 hr 3 min 16 sec) 
+Demand Hit Rate: 98.5176
+FlenMINGen Hits: 10615
+FlenMINGen Access: 10456
+FLEXMINGEN Hit Rate: 101.521
+Heartbeat CPU 0 instructions: 94000002 cycles: 112742063 heartbeat IPC: 0.906373 cumulative IPC: 0.805027 (Simulation time: 0 hr 3 min 19 sec) 
+Demand Hit Rate: 98.5128
+FlenMINGen Hits: 10781
+FlenMINGen Access: 10624
+FLEXMINGEN Hit Rate: 101.478
+Heartbeat CPU 0 instructions: 95000000 cycles: 113566771 heartbeat IPC: 1.21255 cumulative IPC: 0.808045 (Simulation time: 0 hr 3 min 21 sec) 
+Demand Hit Rate: 98.5285
+FlenMINGen Hits: 11103
+FlenMINGen Access: 10941
+FLEXMINGEN Hit Rate: 101.481
+Heartbeat CPU 0 instructions: 96000000 cycles: 114462738 heartbeat IPC: 1.11611 cumulative IPC: 0.810503 (Simulation time: 0 hr 3 min 23 sec) 
+Demand Hit Rate: 98.5334
+FlenMINGen Hits: 11212
+FlenMINGen Access: 11046
+FLEXMINGEN Hit Rate: 101.503
+Heartbeat CPU 0 instructions: 97000000 cycles: 115276519 heartbeat IPC: 1.22883 cumulative IPC: 0.813514 (Simulation time: 0 hr 3 min 25 sec) 
+Demand Hit Rate: 98.5283
+FlenMINGen Hits: 11243
+FlenMINGen Access: 11076
+FLEXMINGEN Hit Rate: 101.508
+Heartbeat CPU 0 instructions: 98000000 cycles: 116631907 heartbeat IPC: 0.737796 cumulative IPC: 0.812617 (Simulation time: 0 hr 3 min 27 sec) 
+Demand Hit Rate: 98.5119
+FlenMINGen Hits: 11319
+FlenMINGen Access: 11155
+FLEXMINGEN Hit Rate: 101.47
+Heartbeat CPU 0 instructions: 99000002 cycles: 118002529 heartbeat IPC: 0.729597 cumulative IPC: 0.811634 (Simulation time: 0 hr 3 min 29 sec) 
+Demand Hit Rate: 98.5171
+FlenMINGen Hits: 11361
+FlenMINGen Access: 11194
+FLEXMINGEN Hit Rate: 101.492
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 100000000 cycles: 119601613 heartbeat IPC: 0.625357 cumulative IPC: 0.809097 (Simulation time: 0 hr 3 min 31 sec) 
+Demand Hit Rate: 98.5284
+FlenMINGen Hits: 11456
+FlenMINGen Access: 11280
+FLEXMINGEN Hit Rate: 101.56
+Heartbeat CPU 0 instructions: 101000002 cycles: 121017382 heartbeat IPC: 0.706331 cumulative IPC: 0.807873 (Simulation time: 0 hr 3 min 33 sec) 
+Demand Hit Rate: 98.5359
+FlenMINGen Hits: 11514
+FlenMINGen Access: 11338
+FLEXMINGEN Hit Rate: 101.552
+Heartbeat CPU 0 instructions: 102000001 cycles: 122514678 heartbeat IPC: 0.66787 cumulative IPC: 0.806131 (Simulation time: 0 hr 3 min 35 sec) 
+Demand Hit Rate: 98.5427
+FlenMINGen Hits: 11568
+FlenMINGen Access: 11391
+FLEXMINGEN Hit Rate: 101.554
+Heartbeat CPU 0 instructions: 103000002 cycles: 123991120 heartbeat IPC: 0.677305 cumulative IPC: 0.804569 (Simulation time: 0 hr 3 min 37 sec) 
+Demand Hit Rate: 98.5075
+FlenMINGen Hits: 11764
+FlenMINGen Access: 11591
+FLEXMINGEN Hit Rate: 101.493
+Heartbeat CPU 0 instructions: 104000000 cycles: 125093562 heartbeat IPC: 0.907075 cumulative IPC: 0.805489 (Simulation time: 0 hr 3 min 39 sec) 
+Demand Hit Rate: 98.5034
+FlenMINGen Hits: 11930
+FlenMINGen Access: 11760
+FLEXMINGEN Hit Rate: 101.446
+Heartbeat CPU 0 instructions: 105000003 cycles: 125920427 heartbeat IPC: 1.20939 cumulative IPC: 0.808188 (Simulation time: 0 hr 3 min 41 sec) 
+Demand Hit Rate: 98.5178
+FlenMINGen Hits: 12249
+FlenMINGen Access: 12077
+FLEXMINGEN Hit Rate: 101.424
+Heartbeat CPU 0 instructions: 106000002 cycles: 126814639 heartbeat IPC: 1.1183 cumulative IPC: 0.810413 (Simulation time: 0 hr 3 min 43 sec) 
+Demand Hit Rate: 98.5151
+FlenMINGen Hits: 12365
+FlenMINGen Access: 12189
+FLEXMINGEN Hit Rate: 101.444
+Heartbeat CPU 0 instructions: 107000000 cycles: 127627390 heartbeat IPC: 1.23039 cumulative IPC: 0.813134 (Simulation time: 0 hr 3 min 45 sec) 
+Demand Hit Rate: 98.5105
+FlenMINGen Hits: 12396
+FlenMINGen Access: 12219
+FLEXMINGEN Hit Rate: 101.449
+Heartbeat CPU 0 instructions: 108000000 cycles: 128982467 heartbeat IPC: 0.737965 cumulative IPC: 0.812331 (Simulation time: 0 hr 3 min 47 sec) 
+Demand Hit Rate: 98.4954
+FlenMINGen Hits: 12471
+FlenMINGen Access: 12296
+FLEXMINGEN Hit Rate: 101.423
+Heartbeat CPU 0 instructions: 109000002 cycles: 130351652 heartbeat IPC: 0.730363 cumulative IPC: 0.811455 (Simulation time: 0 hr 3 min 50 sec) 
+Demand Hit Rate: 98.5003
+FlenMINGen Hits: 12514
+FlenMINGen Access: 12336
+FLEXMINGEN Hit Rate: 101.443
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 110000001 cycles: 131949432 heartbeat IPC: 0.625868 cumulative IPC: 0.80917 (Simulation time: 0 hr 3 min 52 sec) 
+Demand Hit Rate: 98.5106
+FlenMINGen Hits: 12609
+FlenMINGen Access: 12421
+FLEXMINGEN Hit Rate: 101.514
+Heartbeat CPU 0 instructions: 111000002 cycles: 133364254 heartbeat IPC: 0.706803 cumulative IPC: 0.808066 (Simulation time: 0 hr 3 min 54 sec) 
+Demand Hit Rate: 98.5174
+FlenMINGen Hits: 12666
+FlenMINGen Access: 12478
+FLEXMINGEN Hit Rate: 101.507
+Heartbeat CPU 0 instructions: 112000000 cycles: 134861989 heartbeat IPC: 0.667674 cumulative IPC: 0.806481 (Simulation time: 0 hr 3 min 56 sec) 
+Demand Hit Rate: 98.5235
+FlenMINGen Hits: 12719
+FlenMINGen Access: 12530
+FLEXMINGEN Hit Rate: 101.508
+Heartbeat CPU 0 instructions: 113000002 cycles: 136340735 heartbeat IPC: 0.67625 cumulative IPC: 0.805045 (Simulation time: 0 hr 3 min 58 sec) 
+Demand Hit Rate: 98.4996
+FlenMINGen Hits: 12915
+FlenMINGen Access: 12730
+FLEXMINGEN Hit Rate: 101.453
+Heartbeat CPU 0 instructions: 114000002 cycles: 137443059 heartbeat IPC: 0.907174 cumulative IPC: 0.805878 (Simulation time: 0 hr 4 min 0 sec) 
+Demand Hit Rate: 98.4958
+FlenMINGen Hits: 13080
+FlenMINGen Access: 12897
+FLEXMINGEN Hit Rate: 101.419
+Heartbeat CPU 0 instructions: 115000000 cycles: 138269255 heartbeat IPC: 1.21036 cumulative IPC: 0.808334 (Simulation time: 0 hr 4 min 2 sec) 
+Demand Hit Rate: 98.5092
+FlenMINGen Hits: 13401
+FlenMINGen Access: 13214
+FLEXMINGEN Hit Rate: 101.415
+Heartbeat CPU 0 instructions: 116000000 cycles: 139165006 heartbeat IPC: 1.11638 cumulative IPC: 0.810348 (Simulation time: 0 hr 4 min 4 sec) 
+Demand Hit Rate: 98.5134
+FlenMINGen Hits: 13510
+FlenMINGen Access: 13319
+FLEXMINGEN Hit Rate: 101.434
+Heartbeat CPU 0 instructions: 117000000 cycles: 139978290 heartbeat IPC: 1.22958 cumulative IPC: 0.812822 (Simulation time: 0 hr 4 min 6 sec) 
+Demand Hit Rate: 98.5093
+FlenMINGen Hits: 13541
+FlenMINGen Access: 13349
+FLEXMINGEN Hit Rate: 101.438
+Heartbeat CPU 0 instructions: 118000000 cycles: 141333158 heartbeat IPC: 0.738079 cumulative IPC: 0.812095 (Simulation time: 0 hr 4 min 8 sec) 
+Demand Hit Rate: 98.4957
+FlenMINGen Hits: 13617
+FlenMINGen Access: 13428
+FLEXMINGEN Hit Rate: 101.408
+Heartbeat CPU 0 instructions: 119000002 cycles: 142703834 heartbeat IPC: 0.729568 cumulative IPC: 0.81129 (Simulation time: 0 hr 4 min 10 sec) 
+Demand Hit Rate: 98.5
+FlenMINGen Hits: 13659
+FlenMINGen Access: 13467
+FLEXMINGEN Hit Rate: 101.426
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 120000000 cycles: 144302995 heartbeat IPC: 0.625327 cumulative IPC: 0.809197 (Simulation time: 0 hr 4 min 12 sec) 
+Demand Hit Rate: 98.5096
+FlenMINGen Hits: 13754
+FlenMINGen Access: 13553
+FLEXMINGEN Hit Rate: 101.483
+Heartbeat CPU 0 instructions: 121000002 cycles: 145718905 heartbeat IPC: 0.706261 cumulative IPC: 0.808182 (Simulation time: 0 hr 4 min 14 sec) 
+Demand Hit Rate: 98.5159
+FlenMINGen Hits: 13812
+FlenMINGen Access: 13611
+FLEXMINGEN Hit Rate: 101.477
+Heartbeat CPU 0 instructions: 122000001 cycles: 147217099 heartbeat IPC: 0.66747 cumulative IPC: 0.806728 (Simulation time: 0 hr 4 min 17 sec) 
+Demand Hit Rate: 98.5217
+FlenMINGen Hits: 13866
+FlenMINGen Access: 13664
+FLEXMINGEN Hit Rate: 101.478
+Heartbeat CPU 0 instructions: 123000002 cycles: 148695383 heartbeat IPC: 0.676461 cumulative IPC: 0.805414 (Simulation time: 0 hr 4 min 19 sec) 
+Demand Hit Rate: 98.4925
+FlenMINGen Hits: 14062
+FlenMINGen Access: 13864
+FLEXMINGEN Hit Rate: 101.428
+Heartbeat CPU 0 instructions: 124000000 cycles: 149798779 heartbeat IPC: 0.906291 cumulative IPC: 0.806168 (Simulation time: 0 hr 4 min 21 sec) 
+Demand Hit Rate: 98.4893
+FlenMINGen Hits: 14229
+FlenMINGen Access: 14033
+FLEXMINGEN Hit Rate: 101.397
+Heartbeat CPU 0 instructions: 125000003 cycles: 150625087 heartbeat IPC: 1.21021 cumulative IPC: 0.808417 (Simulation time: 0 hr 4 min 23 sec) 
+Demand Hit Rate: 98.5017
+FlenMINGen Hits: 14548
+FlenMINGen Access: 14350
+FLEXMINGEN Hit Rate: 101.38
+Heartbeat CPU 0 instructions: 126000002 cycles: 151520036 heartbeat IPC: 1.11738 cumulative IPC: 0.810269 (Simulation time: 0 hr 4 min 25 sec) 
+Demand Hit Rate: 98.4995
+FlenMINGen Hits: 14664
+FlenMINGen Access: 14462
+FLEXMINGEN Hit Rate: 101.397
+Heartbeat CPU 0 instructions: 127000000 cycles: 152334273 heartbeat IPC: 1.22814 cumulative IPC: 0.812535 (Simulation time: 0 hr 4 min 28 sec) 
+Demand Hit Rate: 98.4957
+FlenMINGen Hits: 14695
+FlenMINGen Access: 14492
+FLEXMINGEN Hit Rate: 101.401
+Heartbeat CPU 0 instructions: 128000000 cycles: 153690571 heartbeat IPC: 0.737301 cumulative IPC: 0.811861 (Simulation time: 0 hr 4 min 30 sec) 
+Demand Hit Rate: 98.4831
+FlenMINGen Hits: 14770
+FlenMINGen Access: 14569
+FLEXMINGEN Hit Rate: 101.38
+Heartbeat CPU 0 instructions: 129000002 cycles: 155059756 heartbeat IPC: 0.730363 cumulative IPC: 0.811131 (Simulation time: 0 hr 4 min 32 sec) 
+Demand Hit Rate: 98.4872
+FlenMINGen Hits: 14813
+FlenMINGen Access: 14609
+FLEXMINGEN Hit Rate: 101.396
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 130000001 cycles: 156657300 heartbeat IPC: 0.62596 cumulative IPC: 0.809216 (Simulation time: 0 hr 4 min 34 sec) 
+Demand Hit Rate: 98.496
+FlenMINGen Hits: 14908
+FlenMINGen Access: 14694
+FLEXMINGEN Hit Rate: 101.456
+Heartbeat CPU 0 instructions: 131000002 cycles: 158072162 heartbeat IPC: 0.706783 cumulative IPC: 0.808286 (Simulation time: 0 hr 4 min 36 sec) 
+Demand Hit Rate: 98.5018
+FlenMINGen Hits: 14965
+FlenMINGen Access: 14751
+FLEXMINGEN Hit Rate: 101.451
+Heartbeat CPU 0 instructions: 132000000 cycles: 159570195 heartbeat IPC: 0.667541 cumulative IPC: 0.806947 (Simulation time: 0 hr 4 min 38 sec) 
+Demand Hit Rate: 98.5071
+FlenMINGen Hits: 15018
+FlenMINGen Access: 14803
+FLEXMINGEN Hit Rate: 101.452
+Heartbeat CPU 0 instructions: 133000002 cycles: 161049009 heartbeat IPC: 0.676219 cumulative IPC: 0.80573 (Simulation time: 0 hr 4 min 40 sec) 
+Demand Hit Rate: 98.487
+FlenMINGen Hits: 15214
+FlenMINGen Access: 15003
+FLEXMINGEN Hit Rate: 101.406
+Heartbeat CPU 0 instructions: 134000002 cycles: 162151673 heartbeat IPC: 0.906895 cumulative IPC: 0.806427 (Simulation time: 0 hr 4 min 42 sec) 
+Demand Hit Rate: 98.4838
+FlenMINGen Hits: 15379
+FlenMINGen Access: 15170
+FLEXMINGEN Hit Rate: 101.378
+Heartbeat CPU 0 instructions: 135000000 cycles: 162977817 heartbeat IPC: 1.21044 cumulative IPC: 0.808503 (Simulation time: 0 hr 4 min 44 sec) 
+Demand Hit Rate: 98.4955
+FlenMINGen Hits: 15701
+FlenMINGen Access: 15487
+FLEXMINGEN Hit Rate: 101.382
+Heartbeat CPU 0 instructions: 136000000 cycles: 163873448 heartbeat IPC: 1.11653 cumulative IPC: 0.810209 (Simulation time: 0 hr 4 min 46 sec) 
+Demand Hit Rate: 98.4992
+FlenMINGen Hits: 15810
+FlenMINGen Access: 15592
+FLEXMINGEN Hit Rate: 101.398
+Heartbeat CPU 0 instructions: 137000000 cycles: 164686557 heartbeat IPC: 1.22985 cumulative IPC: 0.812309 (Simulation time: 0 hr 4 min 48 sec) 
+Demand Hit Rate: 98.4957
+FlenMINGen Hits: 15841
+FlenMINGen Access: 15622
+FLEXMINGEN Hit Rate: 101.402
+Heartbeat CPU 0 instructions: 138000000 cycles: 166041916 heartbeat IPC: 0.737812 cumulative IPC: 0.811693 (Simulation time: 0 hr 4 min 50 sec) 
+Demand Hit Rate: 98.4842
+FlenMINGen Hits: 15917
+FlenMINGen Access: 15701
+FLEXMINGEN Hit Rate: 101.376
+Heartbeat CPU 0 instructions: 139000002 cycles: 167412538 heartbeat IPC: 0.729597 cumulative IPC: 0.811012 (Simulation time: 0 hr 4 min 52 sec) 
+Demand Hit Rate: 98.4879
+FlenMINGen Hits: 15959
+FlenMINGen Access: 15740
+FLEXMINGEN Hit Rate: 101.391
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 140000000 cycles: 169011157 heartbeat IPC: 0.625539 cumulative IPC: 0.809234 (Simulation time: 0 hr 4 min 54 sec) 
+Demand Hit Rate: 98.4961
+FlenMINGen Hits: 16054
+FlenMINGen Access: 15826
+FLEXMINGEN Hit Rate: 101.441
+Heartbeat CPU 0 instructions: 141000002 cycles: 170426635 heartbeat IPC: 0.706477 cumulative IPC: 0.80837 (Simulation time: 0 hr 4 min 56 sec) 
+Demand Hit Rate: 98.5016
+FlenMINGen Hits: 16112
+FlenMINGen Access: 15884
+FLEXMINGEN Hit Rate: 101.435
+Heartbeat CPU 0 instructions: 142000001 cycles: 171923745 heartbeat IPC: 0.667953 cumulative IPC: 0.807131 (Simulation time: 0 hr 4 min 58 sec) 
+Demand Hit Rate: 98.5066
+FlenMINGen Hits: 16166
+FlenMINGen Access: 15937
+FLEXMINGEN Hit Rate: 101.437
+Heartbeat CPU 0 instructions: 143000002 cycles: 173400476 heartbeat IPC: 0.677172 cumulative IPC: 0.80601 (Simulation time: 0 hr 5 min 1 sec) 
+Demand Hit Rate: 98.4818
+FlenMINGen Hits: 16361
+FlenMINGen Access: 16137
+FLEXMINGEN Hit Rate: 101.388
+Heartbeat CPU 0 instructions: 144000000 cycles: 174503400 heartbeat IPC: 0.906679 cumulative IPC: 0.806655 (Simulation time: 0 hr 5 min 3 sec) 
+Demand Hit Rate: 98.479
+FlenMINGen Hits: 16526
+FlenMINGen Access: 16305
+FLEXMINGEN Hit Rate: 101.355
+Heartbeat CPU 0 instructions: 145000003 cycles: 175329899 heartbeat IPC: 1.20993 cumulative IPC: 0.80858 (Simulation time: 0 hr 5 min 5 sec) 
+Demand Hit Rate: 98.4899
+FlenMINGen Hits: 16844
+FlenMINGen Access: 16621
+FLEXMINGEN Hit Rate: 101.342
+Heartbeat CPU 0 instructions: 146000002 cycles: 176224585 heartbeat IPC: 1.11771 cumulative IPC: 0.810169 (Simulation time: 0 hr 5 min 7 sec) 
+Demand Hit Rate: 98.488
+FlenMINGen Hits: 16960
+FlenMINGen Access: 16733
+FLEXMINGEN Hit Rate: 101.357
+Heartbeat CPU 0 instructions: 147000000 cycles: 177037914 heartbeat IPC: 1.22951 cumulative IPC: 0.81212 (Simulation time: 0 hr 5 min 9 sec) 
+Demand Hit Rate: 98.4848
+FlenMINGen Hits: 16991
+FlenMINGen Access: 16763
+FLEXMINGEN Hit Rate: 101.36
+Heartbeat CPU 0 instructions: 148000000 cycles: 178393084 heartbeat IPC: 0.737915 cumulative IPC: 0.811549 (Simulation time: 0 hr 5 min 11 sec) 
+Demand Hit Rate: 98.4739
+FlenMINGen Hits: 17066
+FlenMINGen Access: 16840
+FLEXMINGEN Hit Rate: 101.342
+Heartbeat CPU 0 instructions: 149000002 cycles: 179762269 heartbeat IPC: 0.730363 cumulative IPC: 0.810923 (Simulation time: 0 hr 5 min 13 sec) 
+Demand Hit Rate: 98.4775
+FlenMINGen Hits: 17109
+FlenMINGen Access: 16880
+FLEXMINGEN Hit Rate: 101.357
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 150000001 cycles: 181359679 heartbeat IPC: 0.626013 cumulative IPC: 0.809274 (Simulation time: 0 hr 5 min 15 sec) 
+Demand Hit Rate: 98.4851
+FlenMINGen Hits: 17204
+FlenMINGen Access: 16965
+FLEXMINGEN Hit Rate: 101.409
+Heartbeat CPU 0 instructions: 151000002 cycles: 182774465 heartbeat IPC: 0.706821 cumulative IPC: 0.808472 (Simulation time: 0 hr 5 min 17 sec) 
+Demand Hit Rate: 98.4902
+FlenMINGen Hits: 17261
+FlenMINGen Access: 17022
+FLEXMINGEN Hit Rate: 101.404
+Heartbeat CPU 0 instructions: 152000000 cycles: 184272361 heartbeat IPC: 0.667602 cumulative IPC: 0.807313 (Simulation time: 0 hr 5 min 19 sec) 
+Demand Hit Rate: 98.4948
+FlenMINGen Hits: 17314
+FlenMINGen Access: 17074
+FLEXMINGEN Hit Rate: 101.406
+Heartbeat CPU 0 instructions: 153000002 cycles: 185752485 heartbeat IPC: 0.67562 cumulative IPC: 0.806251 (Simulation time: 0 hr 5 min 21 sec) 
+Demand Hit Rate: 98.4775
+FlenMINGen Hits: 17510
+FlenMINGen Access: 17274
+FLEXMINGEN Hit Rate: 101.366
+Heartbeat CPU 0 instructions: 154000002 cycles: 186855689 heartbeat IPC: 0.906451 cumulative IPC: 0.80685 (Simulation time: 0 hr 5 min 23 sec) 
+Demand Hit Rate: 98.4749
+FlenMINGen Hits: 17675
+FlenMINGen Access: 17441
+FLEXMINGEN Hit Rate: 101.342
+Heartbeat CPU 0 instructions: 155000000 cycles: 187681189 heartbeat IPC: 1.21138 cumulative IPC: 0.80865 (Simulation time: 0 hr 5 min 25 sec) 
+Demand Hit Rate: 98.4852
+FlenMINGen Hits: 17996
+FlenMINGen Access: 17758
+FLEXMINGEN Hit Rate: 101.34
+Heartbeat CPU 0 instructions: 156000000 cycles: 188577185 heartbeat IPC: 1.11608 cumulative IPC: 0.810128 (Simulation time: 0 hr 5 min 28 sec) 
+Demand Hit Rate: 98.4885
+FlenMINGen Hits: 18105
+FlenMINGen Access: 17863
+FLEXMINGEN Hit Rate: 101.355
+Heartbeat CPU 0 instructions: 157000000 cycles: 189390939 heartbeat IPC: 1.22887 cumulative IPC: 0.811948 (Simulation time: 0 hr 5 min 30 sec) 
+Demand Hit Rate: 98.4854
+FlenMINGen Hits: 18136
+FlenMINGen Access: 17893
+FLEXMINGEN Hit Rate: 101.358
+Heartbeat CPU 0 instructions: 158000000 cycles: 190746594 heartbeat IPC: 0.737651 cumulative IPC: 0.811414 (Simulation time: 0 hr 5 min 32 sec) 
+Demand Hit Rate: 98.4754
+FlenMINGen Hits: 18212
+FlenMINGen Access: 17972
+FLEXMINGEN Hit Rate: 101.335
+Heartbeat CPU 0 instructions: 159000002 cycles: 192117216 heartbeat IPC: 0.729597 cumulative IPC: 0.810823 (Simulation time: 0 hr 5 min 34 sec) 
+Demand Hit Rate: 98.4787
+FlenMINGen Hits: 18254
+FlenMINGen Access: 18011
+FLEXMINGEN Hit Rate: 101.349
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 160000000 cycles: 193716195 heartbeat IPC: 0.625398 cumulative IPC: 0.809275 (Simulation time: 0 hr 5 min 36 sec) 
+Demand Hit Rate: 98.4859
+FlenMINGen Hits: 18349
+FlenMINGen Access: 18097
+FLEXMINGEN Hit Rate: 101.392
+Heartbeat CPU 0 instructions: 161000002 cycles: 195132033 heartbeat IPC: 0.706297 cumulative IPC: 0.80852 (Simulation time: 0 hr 5 min 38 sec) 
+Demand Hit Rate: 98.4908
+FlenMINGen Hits: 18407
+FlenMINGen Access: 18155
+FLEXMINGEN Hit Rate: 101.388
+Heartbeat CPU 0 instructions: 162000001 cycles: 196629710 heartbeat IPC: 0.6677 cumulative IPC: 0.807435 (Simulation time: 0 hr 5 min 40 sec) 
+Demand Hit Rate: 98.4952
+FlenMINGen Hits: 18461
+FlenMINGen Access: 18208
+FLEXMINGEN Hit Rate: 101.389
+Heartbeat CPU 0 instructions: 163000002 cycles: 198107300 heartbeat IPC: 0.676778 cumulative IPC: 0.80645 (Simulation time: 0 hr 5 min 42 sec) 
+Demand Hit Rate: 98.4735
+FlenMINGen Hits: 18657
+FlenMINGen Access: 18408
+FLEXMINGEN Hit Rate: 101.353
+Heartbeat CPU 0 instructions: 164000000 cycles: 199210601 heartbeat IPC: 0.906369 cumulative IPC: 0.807009 (Simulation time: 0 hr 5 min 44 sec) 
+Demand Hit Rate: 98.4712
+FlenMINGen Hits: 18823
+FlenMINGen Access: 18577
+FLEXMINGEN Hit Rate: 101.324
+Heartbeat CPU 0 instructions: 165000003 cycles: 200038029 heartbeat IPC: 1.20857 cumulative IPC: 0.808689 (Simulation time: 0 hr 5 min 46 sec) 
+Demand Hit Rate: 98.4809
+FlenMINGen Hits: 19141
+FlenMINGen Access: 18893
+FLEXMINGEN Hit Rate: 101.313
+Heartbeat CPU 0 instructions: 166000002 cycles: 200933048 heartbeat IPC: 1.11729 cumulative IPC: 0.810078 (Simulation time: 0 hr 5 min 48 sec) 
+Demand Hit Rate: 98.4793
+FlenMINGen Hits: 19257
+FlenMINGen Access: 19005
+FLEXMINGEN Hit Rate: 101.326
+Heartbeat CPU 0 instructions: 167000000 cycles: 201747330 heartbeat IPC: 1.22807 cumulative IPC: 0.811784 (Simulation time: 0 hr 5 min 50 sec) 
+Demand Hit Rate: 98.4765
+FlenMINGen Hits: 19288
+FlenMINGen Access: 19035
+FLEXMINGEN Hit Rate: 101.329
+Heartbeat CPU 0 instructions: 168000000 cycles: 203103619 heartbeat IPC: 0.737306 cumulative IPC: 0.811281 (Simulation time: 0 hr 5 min 52 sec) 
+Demand Hit Rate: 98.4669
+FlenMINGen Hits: 19363
+FlenMINGen Access: 19112
+FLEXMINGEN Hit Rate: 101.313
+Heartbeat CPU 0 instructions: 169000002 cycles: 204472877 heartbeat IPC: 0.730324 cumulative IPC: 0.810733 (Simulation time: 0 hr 5 min 54 sec) 
+Demand Hit Rate: 98.4701
+FlenMINGen Hits: 19406
+FlenMINGen Access: 19152
+FLEXMINGEN Hit Rate: 101.326
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 170000001 cycles: 206070641 heartbeat IPC: 0.625874 cumulative IPC: 0.809284 (Simulation time: 0 hr 5 min 56 sec) 
+Demand Hit Rate: 98.4769
+FlenMINGen Hits: 19501
+FlenMINGen Access: 19237
+FLEXMINGEN Hit Rate: 101.372
+Heartbeat CPU 0 instructions: 171000002 cycles: 207485152 heartbeat IPC: 0.706959 cumulative IPC: 0.808579 (Simulation time: 0 hr 5 min 58 sec) 
+Demand Hit Rate: 98.4814
+FlenMINGen Hits: 19558
+FlenMINGen Access: 19294
+FLEXMINGEN Hit Rate: 101.368
+Heartbeat CPU 0 instructions: 172000000 cycles: 208982908 heartbeat IPC: 0.667664 cumulative IPC: 0.807559 (Simulation time: 0 hr 6 min 0 sec) 
+Demand Hit Rate: 98.4855
+FlenMINGen Hits: 19611
+FlenMINGen Access: 19346
+FLEXMINGEN Hit Rate: 101.37
+Heartbeat CPU 0 instructions: 173000002 cycles: 210461331 heartbeat IPC: 0.676398 cumulative IPC: 0.806628 (Simulation time: 0 hr 6 min 2 sec) 
+Demand Hit Rate: 98.4703
+FlenMINGen Hits: 19807
+FlenMINGen Access: 19546
+FLEXMINGEN Hit Rate: 101.335
+Heartbeat CPU 0 instructions: 174000002 cycles: 211563941 heartbeat IPC: 0.906939 cumulative IPC: 0.807156 (Simulation time: 0 hr 6 min 4 sec) 
+Demand Hit Rate: 98.468
+FlenMINGen Hits: 19972
+FlenMINGen Access: 19713
+FLEXMINGEN Hit Rate: 101.314
+Heartbeat CPU 0 instructions: 175000000 cycles: 212389309 heartbeat IPC: 1.21158 cumulative IPC: 0.808744 (Simulation time: 0 hr 6 min 6 sec) 
+Demand Hit Rate: 98.4774
+FlenMINGen Hits: 20296
+FlenMINGen Access: 20032
+FLEXMINGEN Hit Rate: 101.318
+Heartbeat CPU 0 instructions: 176000000 cycles: 213285099 heartbeat IPC: 1.11633 cumulative IPC: 0.810049 (Simulation time: 0 hr 6 min 8 sec) 
+Demand Hit Rate: 98.4754
+FlenMINGen Hits: 20404
+FlenMINGen Access: 20137
+FLEXMINGEN Hit Rate: 101.326
+Heartbeat CPU 0 instructions: 177000000 cycles: 214098255 heartbeat IPC: 1.22978 cumulative IPC: 0.81166 (Simulation time: 0 hr 6 min 10 sec) 
+Demand Hit Rate: 98.4728
+FlenMINGen Hits: 20435
+FlenMINGen Access: 20167
+FLEXMINGEN Hit Rate: 101.329
+Heartbeat CPU 0 instructions: 178000000 cycles: 215452901 heartbeat IPC: 0.7382 cumulative IPC: 0.811193 (Simulation time: 0 hr 6 min 12 sec) 
+Demand Hit Rate: 98.4639
+FlenMINGen Hits: 20511
+FlenMINGen Access: 20246
+FLEXMINGEN Hit Rate: 101.309
+Heartbeat CPU 0 instructions: 179000002 cycles: 216823522 heartbeat IPC: 0.729598 cumulative IPC: 0.810672 (Simulation time: 0 hr 6 min 14 sec) 
+Demand Hit Rate: 98.4668
+FlenMINGen Hits: 20553
+FlenMINGen Access: 20285
+FLEXMINGEN Hit Rate: 101.321
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 180000000 cycles: 218422242 heartbeat IPC: 0.625499 cumulative IPC: 0.809303 (Simulation time: 0 hr 6 min 16 sec) 
+Demand Hit Rate: 98.4733
+FlenMINGen Hits: 20648
+FlenMINGen Access: 20371
+FLEXMINGEN Hit Rate: 101.36
+Heartbeat CPU 0 instructions: 181000002 cycles: 219837837 heartbeat IPC: 0.706418 cumulative IPC: 0.808634 (Simulation time: 0 hr 6 min 18 sec) 
+Demand Hit Rate: 98.4777
+FlenMINGen Hits: 20706
+FlenMINGen Access: 20429
+FLEXMINGEN Hit Rate: 101.356
+Heartbeat CPU 0 instructions: 182000001 cycles: 221335317 heartbeat IPC: 0.667788 cumulative IPC: 0.807672 (Simulation time: 0 hr 6 min 20 sec) 
+Demand Hit Rate: 98.4816
+FlenMINGen Hits: 20760
+FlenMINGen Access: 20482
+FLEXMINGEN Hit Rate: 101.357
+Heartbeat CPU 0 instructions: 183000002 cycles: 222811625 heartbeat IPC: 0.677366 cumulative IPC: 0.8068 (Simulation time: 0 hr 6 min 22 sec) 
+Demand Hit Rate: 98.4624
+FlenMINGen Hits: 20955
+FlenMINGen Access: 20682
+FLEXMINGEN Hit Rate: 101.32
+Heartbeat CPU 0 instructions: 184000000 cycles: 223914341 heartbeat IPC: 0.90685 cumulative IPC: 0.807297 (Simulation time: 0 hr 6 min 24 sec) 
+Demand Hit Rate: 98.4604
+FlenMINGen Hits: 21120
+FlenMINGen Access: 20850
+FLEXMINGEN Hit Rate: 101.295
+Heartbeat CPU 0 instructions: 185000003 cycles: 224740410 heartbeat IPC: 1.21056 cumulative IPC: 0.808794 (Simulation time: 0 hr 6 min 26 sec) 
+Demand Hit Rate: 98.4692
+FlenMINGen Hits: 21438
+FlenMINGen Access: 21166
+FLEXMINGEN Hit Rate: 101.285
+Heartbeat CPU 0 instructions: 186000002 cycles: 225635405 heartbeat IPC: 1.11732 cumulative IPC: 0.81003 (Simulation time: 0 hr 6 min 28 sec) 
+Demand Hit Rate: 98.4679
+FlenMINGen Hits: 21554
+FlenMINGen Access: 21278
+FLEXMINGEN Hit Rate: 101.297
+Heartbeat CPU 0 instructions: 187000000 cycles: 226448440 heartbeat IPC: 1.22996 cumulative IPC: 0.811552 (Simulation time: 0 hr 6 min 30 sec) 
+Demand Hit Rate: 98.4654
+FlenMINGen Hits: 21585
+FlenMINGen Access: 21308
+FLEXMINGEN Hit Rate: 101.3
+Heartbeat CPU 0 instructions: 188000000 cycles: 227803904 heartbeat IPC: 0.737755 cumulative IPC: 0.811109 (Simulation time: 0 hr 6 min 32 sec) 
+Demand Hit Rate: 98.4569
+FlenMINGen Hits: 21660
+FlenMINGen Access: 21385
+FLEXMINGEN Hit Rate: 101.286
+Heartbeat CPU 0 instructions: 189000002 cycles: 229173144 heartbeat IPC: 0.730334 cumulative IPC: 0.810622 (Simulation time: 0 hr 6 min 34 sec) 
+Demand Hit Rate: 98.4597
+FlenMINGen Hits: 21703
+FlenMINGen Access: 21425
+FLEXMINGEN Hit Rate: 101.298
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 190000001 cycles: 230770469 heartbeat IPC: 0.626046 cumulative IPC: 0.809332 (Simulation time: 0 hr 6 min 36 sec) 
+Demand Hit Rate: 98.4658
+FlenMINGen Hits: 21798
+FlenMINGen Access: 21510
+FLEXMINGEN Hit Rate: 101.339
+Heartbeat CPU 0 instructions: 191000002 cycles: 232185421 heartbeat IPC: 0.706738 cumulative IPC: 0.808701 (Simulation time: 0 hr 6 min 38 sec) 
+Demand Hit Rate: 98.4699
+FlenMINGen Hits: 21855
+FlenMINGen Access: 21567
+FLEXMINGEN Hit Rate: 101.335
+Heartbeat CPU 0 instructions: 192000000 cycles: 233683317 heartbeat IPC: 0.667602 cumulative IPC: 0.807788 (Simulation time: 0 hr 6 min 40 sec) 
+Demand Hit Rate: 98.4736
+FlenMINGen Hits: 21908
+FlenMINGen Access: 21619
+FLEXMINGEN Hit Rate: 101.337
+Heartbeat CPU 0 instructions: 193000002 cycles: 235162460 heartbeat IPC: 0.676068 cumulative IPC: 0.806951 (Simulation time: 0 hr 6 min 43 sec) 
+Demand Hit Rate: 98.4601
+FlenMINGen Hits: 22104
+FlenMINGen Access: 21819
+FLEXMINGEN Hit Rate: 101.306
+Heartbeat CPU 0 instructions: 194000002 cycles: 236264431 heartbeat IPC: 0.907465 cumulative IPC: 0.807424 (Simulation time: 0 hr 6 min 45 sec) 
+Demand Hit Rate: 98.4581
+FlenMINGen Hits: 22269
+FlenMINGen Access: 21986
+FLEXMINGEN Hit Rate: 101.287
+Heartbeat CPU 0 instructions: 195000000 cycles: 237090091 heartbeat IPC: 1.21115 cumulative IPC: 0.808844 (Simulation time: 0 hr 6 min 47 sec) 
+Demand Hit Rate: 98.4666
+FlenMINGen Hits: 22590
+FlenMINGen Access: 22303
+FLEXMINGEN Hit Rate: 101.287
+Heartbeat CPU 0 instructions: 196000000 cycles: 237985705 heartbeat IPC: 1.11655 cumulative IPC: 0.810012 (Simulation time: 0 hr 6 min 49 sec) 
+Demand Hit Rate: 98.4693
+FlenMINGen Hits: 22699
+FlenMINGen Access: 22408
+FLEXMINGEN Hit Rate: 101.299
+Heartbeat CPU 0 instructions: 197000000 cycles: 238799159 heartbeat IPC: 1.22933 cumulative IPC: 0.811454 (Simulation time: 0 hr 6 min 51 sec) 
+Demand Hit Rate: 98.4669
+FlenMINGen Hits: 22730
+FlenMINGen Access: 22438
+FLEXMINGEN Hit Rate: 101.301
+Heartbeat CPU 0 instructions: 198000000 cycles: 240154427 heartbeat IPC: 0.737861 cumulative IPC: 0.811035 (Simulation time: 0 hr 6 min 53 sec) 
+Demand Hit Rate: 98.4589
+FlenMINGen Hits: 22806
+FlenMINGen Access: 22517
+FLEXMINGEN Hit Rate: 101.283
+Heartbeat CPU 0 instructions: 199000002 cycles: 241525049 heartbeat IPC: 0.729597 cumulative IPC: 0.810568 (Simulation time: 0 hr 6 min 55 sec) 
+Demand Hit Rate: 98.4616
+FlenMINGen Hits: 22848
+FlenMINGen Access: 22556
+FLEXMINGEN Hit Rate: 101.295
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 200000000 cycles: 243123950 heartbeat IPC: 0.625428 cumulative IPC: 0.80934 (Simulation time: 0 hr 6 min 57 sec) 
+Demand Hit Rate: 98.4674
+FlenMINGen Hits: 22943
+FlenMINGen Access: 22642
+FLEXMINGEN Hit Rate: 101.329
+Heartbeat CPU 0 instructions: 201000002 cycles: 244539924 heartbeat IPC: 0.706229 cumulative IPC: 0.808737 (Simulation time: 0 hr 6 min 59 sec) 
+Demand Hit Rate: 98.4714
+FlenMINGen Hits: 23001
+FlenMINGen Access: 22700
+FLEXMINGEN Hit Rate: 101.326
+Heartbeat CPU 0 instructions: 202000001 cycles: 246037942 heartbeat IPC: 0.667548 cumulative IPC: 0.80787 (Simulation time: 0 hr 7 min 2 sec) 
+Demand Hit Rate: 98.4749
+FlenMINGen Hits: 23055
+FlenMINGen Access: 22753
+FLEXMINGEN Hit Rate: 101.327
+Heartbeat CPU 0 instructions: 203000003 cycles: 247515004 heartbeat IPC: 0.677021 cumulative IPC: 0.807082 (Simulation time: 0 hr 7 min 4 sec) 
+Demand Hit Rate: 98.4577
+FlenMINGen Hits: 23250
+FlenMINGen Access: 22953
+FLEXMINGEN Hit Rate: 101.294
+Heartbeat CPU 0 instructions: 204000000 cycles: 248618236 heartbeat IPC: 0.906425 cumulative IPC: 0.807527 (Simulation time: 0 hr 7 min 6 sec) 
+Demand Hit Rate: 98.456
+FlenMINGen Hits: 23417
+FlenMINGen Access: 23122
+FLEXMINGEN Hit Rate: 101.276
+Heartbeat CPU 0 instructions: 205000003 cycles: 249445696 heartbeat IPC: 1.20852 cumulative IPC: 0.808869 (Simulation time: 0 hr 7 min 9 sec) 
+Demand Hit Rate: 98.4641
+FlenMINGen Hits: 23736
+FlenMINGen Access: 23439
+FLEXMINGEN Hit Rate: 101.267
+Finished CPU 0 instructions: 200000000 cycles: 247258874 cummulative IPC: 0.808869 (Simulation time: 0 hr 7 min 9 sec) 
+
+ChampSim completed all CPUs
+
+Region of Interest Statistics
+
+CPU 0 cummulative IPC: 0.808869 instructions: 200000000 cycles: 247258874
+LLC TOTAL     ACCESS:    3357188  HIT:    3292671  MISS:      64517
+LLC LOAD      ACCESS:    1128653  HIT:    1117215  MISS:      11438
+LLC RFO       ACCESS:     329144  HIT:     313391  MISS:      15753
+LLC PREFETCH  ACCESS:    1457053  HIT:    1427492  MISS:      29561
+LLC WRITEBACK ACCESS:     442338  HIT:     434573  MISS:       7765
+Demand Hit Rate: 98.4641
+Final FlenMINGen Hits: 23736
+Final FlenMINGen Access: 23439
+Final FLEXMINGEN Hit Rate: 101.267

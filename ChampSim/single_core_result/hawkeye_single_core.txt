@@ -1,0 +1,1080 @@
+
+*** ChampSim Multicore Out-of-Order Simulator ***
+
+Warmup Instructions: 5000000
+Simulation Instructions: 200000000
+Configuration: 2
+Number of CPUs: 1
+LLC sets: 2048
+LLC ways: 16
+Off-chip DRAM Channels: 1 Width: 64-bit Data Rate: 1600 MT/s
+
+CPU 0 runs trace/bzip2_10M.trace
+CPU 0 L1D next line prefetcher
+CPU 0 L2C IP-based stride prefetcher
+Initialize Hawkeye replacement policy state
+Finished initializing Hawkeye replacement policy state
+Heartbeat CPU 0 instructions: 1000002 cycles: 454525 heartbeat IPC: 2.2001 cumulative IPC: 2.2001 (Simulation time: 0 hr 0 min 2 sec) 
+Demand Hit Rate: 18.0451
+OPTGen Hits: 33
+OPTGen Access: 58
+OPTGEN Hit Rate: 56.8966
+Heartbeat CPU 0 instructions: 2000001 cycles: 907788 heartbeat IPC: 2.20622 cumulative IPC: 2.20316 (Simulation time: 0 hr 0 min 4 sec) 
+Demand Hit Rate: 20
+OPTGen Hits: 67
+OPTGen Access: 110
+OPTGEN Hit Rate: 60.9091
+Heartbeat CPU 0 instructions: 3000002 cycles: 1353621 heartbeat IPC: 2.24299 cumulative IPC: 2.21628 (Simulation time: 0 hr 0 min 6 sec) 
+Demand Hit Rate: 33.7907
+OPTGen Hits: 259
+OPTGen Access: 305
+OPTGEN Hit Rate: 84.918
+Heartbeat CPU 0 instructions: 4000000 cycles: 1808281 heartbeat IPC: 2.19944 cumulative IPC: 2.21205 (Simulation time: 0 hr 0 min 9 sec) 
+Demand Hit Rate: 35.5037
+OPTGen Hits: 361
+OPTGen Access: 472
+OPTGEN Hit Rate: 76.4831
+Heartbeat CPU 0 instructions: 5000003 cycles: 2186791 heartbeat IPC: 2.64195 cumulative IPC: 2.28646 (Simulation time: 0 hr 0 min 11 sec) 
+Demand Hit Rate: 34.5848
+OPTGen Hits: 644
+OPTGen Access: 704
+OPTGEN Hit Rate: 91.4773
+
+Warmup complete CPU 0 instructions: 5000003 cycles: 2186791 (Simulation time: 0 hr 0 min 11 sec) 
+
+Heartbeat CPU 0 instructions: 6000002 cycles: 3114884 heartbeat IPC: 1.07748 cumulative IPC: 1.07748 (Simulation time: 0 hr 0 min 13 sec) 
+Demand Hit Rate: 36.2843
+OPTGen Hits: 797
+OPTGen Access: 816
+OPTGEN Hit Rate: 97.6716
+Heartbeat CPU 0 instructions: 7000000 cycles: 3972499 heartbeat IPC: 1.16602 cumulative IPC: 1.12 (Simulation time: 0 hr 0 min 15 sec) 
+Demand Hit Rate: 36.6546
+OPTGen Hits: 828
+OPTGen Access: 846
+OPTGEN Hit Rate: 97.8723
+Heartbeat CPU 0 instructions: 8000000 cycles: 5349706 heartbeat IPC: 0.726107 cumulative IPC: 0.948491 (Simulation time: 0 hr 0 min 17 sec) 
+Demand Hit Rate: 36.3733
+OPTGen Hits: 956
+OPTGen Access: 923
+OPTGEN Hit Rate: 103.575
+Heartbeat CPU 0 instructions: 9000002 cycles: 6723283 heartbeat IPC: 0.728028 cumulative IPC: 0.881738 (Simulation time: 0 hr 0 min 19 sec) 
+Demand Hit Rate: 36.4462
+OPTGen Hits: 1040
+OPTGen Access: 963
+OPTGEN Hit Rate: 107.996
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 10000001 cycles: 8322328 heartbeat IPC: 0.625373 cumulative IPC: 0.814924 (Simulation time: 0 hr 0 min 21 sec) 
+Demand Hit Rate: 37.5639
+OPTGen Hits: 1176
+OPTGen Access: 1049
+OPTGEN Hit Rate: 112.107
+Heartbeat CPU 0 instructions: 11000002 cycles: 9735369 heartbeat IPC: 0.707694 cumulative IPC: 0.794852 (Simulation time: 0 hr 0 min 23 sec) 
+Demand Hit Rate: 38.173
+OPTGen Hits: 1249
+OPTGen Access: 1106
+OPTGEN Hit Rate: 112.929
+Heartbeat CPU 0 instructions: 12000000 cycles: 11231819 heartbeat IPC: 0.668247 cumulative IPC: 0.773906 (Simulation time: 0 hr 0 min 25 sec) 
+Demand Hit Rate: 38.692
+OPTGen Hits: 1313
+OPTGen Access: 1158
+OPTGEN Hit Rate: 113.385
+Heartbeat CPU 0 instructions: 13000002 cycles: 12705094 heartbeat IPC: 0.678761 cumulative IPC: 0.760579 (Simulation time: 0 hr 0 min 27 sec) 
+Demand Hit Rate: 40.9661
+OPTGen Hits: 1549
+OPTGen Access: 1358
+OPTGEN Hit Rate: 114.065
+Heartbeat CPU 0 instructions: 14000002 cycles: 13807911 heartbeat IPC: 0.906769 cumulative IPC: 0.774452 (Simulation time: 0 hr 0 min 29 sec) 
+Demand Hit Rate: 43.3084
+OPTGen Hits: 1724
+OPTGen Access: 1525
+OPTGEN Hit Rate: 113.049
+Heartbeat CPU 0 instructions: 15000000 cycles: 14630138 heartbeat IPC: 1.21621 cumulative IPC: 0.803642 (Simulation time: 0 hr 0 min 32 sec) 
+Demand Hit Rate: 45.2063
+OPTGen Hits: 2111
+OPTGen Access: 1842
+OPTGEN Hit Rate: 114.604
+Heartbeat CPU 0 instructions: 16000000 cycles: 15527163 heartbeat IPC: 1.1148 cumulative IPC: 0.824565 (Simulation time: 0 hr 0 min 34 sec) 
+Demand Hit Rate: 45.2891
+OPTGen Hits: 2275
+OPTGen Access: 1947
+OPTGEN Hit Rate: 116.846
+Heartbeat CPU 0 instructions: 17000000 cycles: 16341804 heartbeat IPC: 1.22753 cumulative IPC: 0.847756 (Simulation time: 0 hr 0 min 36 sec) 
+Demand Hit Rate: 45.4329
+OPTGen Hits: 2310
+OPTGen Access: 1977
+OPTGEN Hit Rate: 116.844
+Heartbeat CPU 0 instructions: 18000000 cycles: 17696862 heartbeat IPC: 0.737976 cumulative IPC: 0.838165 (Simulation time: 0 hr 0 min 38 sec) 
+Demand Hit Rate: 44.8241
+OPTGen Hits: 2439
+OPTGen Access: 2056
+OPTGEN Hit Rate: 118.628
+Heartbeat CPU 0 instructions: 19000002 cycles: 19067593 heartbeat IPC: 0.729539 cumulative IPC: 0.829344 (Simulation time: 0 hr 0 min 40 sec) 
+Demand Hit Rate: 44.6173
+OPTGen Hits: 2523
+OPTGen Access: 2095
+OPTGEN Hit Rate: 120.43
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 20000000 cycles: 20664368 heartbeat IPC: 0.626261 cumulative IPC: 0.811795 (Simulation time: 0 hr 0 min 42 sec) 
+Demand Hit Rate: 44.8541
+OPTGen Hits: 2658
+OPTGen Access: 2181
+OPTGEN Hit Rate: 121.871
+Heartbeat CPU 0 instructions: 21000002 cycles: 22078081 heartbeat IPC: 0.707359 cumulative IPC: 0.804372 (Simulation time: 0 hr 0 min 44 sec) 
+Demand Hit Rate: 45.0102
+OPTGen Hits: 2732
+OPTGen Access: 2239
+OPTGEN Hit Rate: 122.019
+Heartbeat CPU 0 instructions: 22000001 cycles: 23574586 heartbeat IPC: 0.668223 cumulative IPC: 0.794846 (Simulation time: 0 hr 0 min 46 sec) 
+Demand Hit Rate: 45.1477
+OPTGen Hits: 2797
+OPTGen Access: 2292
+OPTGEN Hit Rate: 122.033
+Heartbeat CPU 0 instructions: 23000002 cycles: 25046404 heartbeat IPC: 0.679433 cumulative IPC: 0.787415 (Simulation time: 0 hr 0 min 48 sec) 
+Demand Hit Rate: 45.9443
+OPTGen Hits: 3031
+OPTGen Access: 2492
+OPTGEN Hit Rate: 121.629
+Heartbeat CPU 0 instructions: 24000000 cycles: 26150892 heartbeat IPC: 0.905395 cumulative IPC: 0.792852 (Simulation time: 0 hr 0 min 50 sec) 
+Demand Hit Rate: 47.0947
+OPTGen Hits: 3206
+OPTGen Access: 2660
+OPTGEN Hit Rate: 120.526
+Heartbeat CPU 0 instructions: 25000003 cycles: 26972456 heartbeat IPC: 1.21719 cumulative IPC: 0.806918 (Simulation time: 0 hr 0 min 53 sec) 
+Demand Hit Rate: 47.9185
+OPTGen Hits: 3590
+OPTGen Access: 2977
+OPTGEN Hit Rate: 120.591
+Heartbeat CPU 0 instructions: 26000002 cycles: 27868267 heartbeat IPC: 1.11631 cumulative IPC: 0.81771 (Simulation time: 0 hr 0 min 55 sec) 
+Demand Hit Rate: 48.0048
+OPTGen Hits: 3750
+OPTGen Access: 3089
+OPTGEN Hit Rate: 121.399
+Heartbeat CPU 0 instructions: 27000000 cycles: 28683439 heartbeat IPC: 1.22673 cumulative IPC: 0.830294 (Simulation time: 0 hr 0 min 57 sec) 
+Demand Hit Rate: 48.073
+OPTGen Hits: 3785
+OPTGen Access: 3119
+OPTGEN Hit Rate: 121.353
+Heartbeat CPU 0 instructions: 28000000 cycles: 30037435 heartbeat IPC: 0.738555 cumulative IPC: 0.825834 (Simulation time: 0 hr 0 min 59 sec) 
+Demand Hit Rate: 47.5632
+OPTGen Hits: 3912
+OPTGen Access: 3196
+OPTGEN Hit Rate: 122.403
+Heartbeat CPU 0 instructions: 29000002 cycles: 31406660 heartbeat IPC: 0.730342 cumulative IPC: 0.821359 (Simulation time: 0 hr 1 min 0 sec) 
+Demand Hit Rate: 47.3963
+OPTGen Hits: 3996
+OPTGen Access: 3236
+OPTGEN Hit Rate: 123.486
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 30000001 cycles: 33001658 heartbeat IPC: 0.626959 cumulative IPC: 0.811297 (Simulation time: 0 hr 1 min 2 sec) 
+Demand Hit Rate: 47.4809
+OPTGen Hits: 4132
+OPTGen Access: 3322
+OPTGEN Hit Rate: 124.383
+Heartbeat CPU 0 instructions: 31000002 cycles: 34414977 heartbeat IPC: 0.707555 cumulative IPC: 0.806747 (Simulation time: 0 hr 1 min 4 sec) 
+Demand Hit Rate: 47.5176
+OPTGen Hits: 4205
+OPTGen Access: 3379
+OPTGEN Hit Rate: 124.445
+Heartbeat CPU 0 instructions: 32000000 cycles: 35911091 heartbeat IPC: 0.668397 cumulative IPC: 0.80061 (Simulation time: 0 hr 1 min 6 sec) 
+Demand Hit Rate: 47.5566
+OPTGen Hits: 4269
+OPTGen Access: 3431
+OPTGEN Hit Rate: 124.424
+Heartbeat CPU 0 instructions: 33000002 cycles: 37384925 heartbeat IPC: 0.678504 cumulative IPC: 0.795497 (Simulation time: 0 hr 1 min 8 sec) 
+Demand Hit Rate: 48.0063
+OPTGen Hits: 4505
+OPTGen Access: 3631
+OPTGEN Hit Rate: 124.071
+Heartbeat CPU 0 instructions: 34000002 cycles: 38488522 heartbeat IPC: 0.906128 cumulative IPC: 0.79886 (Simulation time: 0 hr 1 min 10 sec) 
+Demand Hit Rate: 48.7368
+OPTGen Hits: 4680
+OPTGen Access: 3798
+OPTGEN Hit Rate: 123.223
+Heartbeat CPU 0 instructions: 35000000 cycles: 39309748 heartbeat IPC: 1.21769 cumulative IPC: 0.808125 (Simulation time: 0 hr 1 min 12 sec) 
+Demand Hit Rate: 49.1961
+OPTGen Hits: 5067
+OPTGen Access: 4115
+OPTGEN Hit Rate: 123.135
+Heartbeat CPU 0 instructions: 36000000 cycles: 40206712 heartbeat IPC: 1.11487 cumulative IPC: 0.815362 (Simulation time: 0 hr 1 min 14 sec) 
+Demand Hit Rate: 49.1246
+OPTGen Hits: 5231
+OPTGen Access: 4220
+OPTGEN Hit Rate: 123.957
+Heartbeat CPU 0 instructions: 37000000 cycles: 41021479 heartbeat IPC: 1.22734 cumulative IPC: 0.824005 (Simulation time: 0 hr 1 min 16 sec) 
+Demand Hit Rate: 49.1675
+OPTGen Hits: 5266
+OPTGen Access: 4250
+OPTGEN Hit Rate: 123.906
+Heartbeat CPU 0 instructions: 38000000 cycles: 42376060 heartbeat IPC: 0.738236 cumulative IPC: 0.821115 (Simulation time: 0 hr 1 min 18 sec) 
+Demand Hit Rate: 48.7725
+OPTGen Hits: 5395
+OPTGen Access: 4329
+OPTGEN Hit Rate: 124.625
+Heartbeat CPU 0 instructions: 39000002 cycles: 43746721 heartbeat IPC: 0.729576 cumulative IPC: 0.818096 (Simulation time: 0 hr 1 min 21 sec) 
+Demand Hit Rate: 48.6209
+OPTGen Hits: 5479
+OPTGen Access: 4368
+OPTGEN Hit Rate: 125.435
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 40000000 cycles: 45343368 heartbeat IPC: 0.626311 cumulative IPC: 0.811 (Simulation time: 0 hr 1 min 23 sec) 
+Demand Hit Rate: 48.66
+OPTGen Hits: 5614
+OPTGen Access: 4454
+OPTGEN Hit Rate: 126.044
+Heartbeat CPU 0 instructions: 41000002 cycles: 46757451 heartbeat IPC: 0.707173 cumulative IPC: 0.807706 (Simulation time: 0 hr 1 min 25 sec) 
+Demand Hit Rate: 48.6892
+OPTGen Hits: 5688
+OPTGen Access: 4512
+OPTGEN Hit Rate: 126.064
+Heartbeat CPU 0 instructions: 42000001 cycles: 48254051 heartbeat IPC: 0.668181 cumulative IPC: 0.803173 (Simulation time: 0 hr 1 min 27 sec) 
+Demand Hit Rate: 48.7162
+OPTGen Hits: 5753
+OPTGen Access: 4565
+OPTGEN Hit Rate: 126.024
+Heartbeat CPU 0 instructions: 43000002 cycles: 49726206 heartbeat IPC: 0.679277 cumulative IPC: 0.799337 (Simulation time: 0 hr 1 min 29 sec) 
+Demand Hit Rate: 49.006
+OPTGen Hits: 5987
+OPTGen Access: 4765
+OPTGEN Hit Rate: 125.645
+Heartbeat CPU 0 instructions: 44000000 cycles: 50831213 heartbeat IPC: 0.90497 cumulative IPC: 0.801736 (Simulation time: 0 hr 1 min 31 sec) 
+Demand Hit Rate: 49.5608
+OPTGen Hits: 6162
+OPTGen Access: 4933
+OPTGEN Hit Rate: 124.914
+Heartbeat CPU 0 instructions: 45000003 cycles: 51652227 heartbeat IPC: 1.21801 cumulative IPC: 0.808645 (Simulation time: 0 hr 1 min 33 sec) 
+Demand Hit Rate: 49.8839
+OPTGen Hits: 6547
+OPTGen Access: 5250
+OPTGEN Hit Rate: 124.705
+Heartbeat CPU 0 instructions: 46000002 cycles: 52548050 heartbeat IPC: 1.11629 cumulative IPC: 0.814118 (Simulation time: 0 hr 1 min 35 sec) 
+Demand Hit Rate: 49.8913
+OPTGen Hits: 6707
+OPTGen Access: 5362
+OPTGEN Hit Rate: 125.084
+Heartbeat CPU 0 instructions: 47000000 cycles: 53362700 heartbeat IPC: 1.22752 cumulative IPC: 0.820699 (Simulation time: 0 hr 1 min 37 sec) 
+Demand Hit Rate: 49.9214
+OPTGen Hits: 6742
+OPTGen Access: 5392
+OPTGEN Hit Rate: 125.037
+Heartbeat CPU 0 instructions: 48000000 cycles: 54716810 heartbeat IPC: 0.738492 cumulative IPC: 0.818579 (Simulation time: 0 hr 1 min 39 sec) 
+Demand Hit Rate: 49.5815
+OPTGen Hits: 6869
+OPTGen Access: 5469
+OPTGEN Hit Rate: 125.599
+Heartbeat CPU 0 instructions: 49000002 cycles: 56086035 heartbeat IPC: 0.730342 cumulative IPC: 0.816338 (Simulation time: 0 hr 1 min 42 sec) 
+Demand Hit Rate: 49.462
+OPTGen Hits: 6953
+OPTGen Access: 5509
+OPTGEN Hit Rate: 126.212
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 50000001 cycles: 57681033 heartbeat IPC: 0.626959 cumulative IPC: 0.810895 (Simulation time: 0 hr 1 min 44 sec) 
+Demand Hit Rate: 49.4799
+OPTGen Hits: 7089
+OPTGen Access: 5595
+OPTGEN Hit Rate: 126.702
+Heartbeat CPU 0 instructions: 51000002 cycles: 59094346 heartbeat IPC: 0.707558 cumulative IPC: 0.808329 (Simulation time: 0 hr 1 min 46 sec) 
+Demand Hit Rate: 49.4808
+OPTGen Hits: 7162
+OPTGen Access: 5652
+OPTGEN Hit Rate: 126.716
+Heartbeat CPU 0 instructions: 52000000 cycles: 60590299 heartbeat IPC: 0.668469 cumulative IPC: 0.804746 (Simulation time: 0 hr 1 min 48 sec) 
+Demand Hit Rate: 49.4858
+OPTGen Hits: 7226
+OPTGen Access: 5704
+OPTGEN Hit Rate: 126.683
+Heartbeat CPU 0 instructions: 53000002 cycles: 62063487 heartbeat IPC: 0.678801 cumulative IPC: 0.801647 (Simulation time: 0 hr 1 min 51 sec) 
+Demand Hit Rate: 49.7062
+OPTGen Hits: 7462
+OPTGen Access: 5904
+OPTGEN Hit Rate: 126.389
+Heartbeat CPU 0 instructions: 54000002 cycles: 63167906 heartbeat IPC: 0.905453 cumulative IPC: 0.803527 (Simulation time: 0 hr 1 min 53 sec) 
+Demand Hit Rate: 50.1308
+OPTGen Hits: 7637
+OPTGen Access: 6071
+OPTGEN Hit Rate: 125.795
+Heartbeat CPU 0 instructions: 55000000 cycles: 63989693 heartbeat IPC: 1.21686 cumulative IPC: 0.809023 (Simulation time: 0 hr 1 min 55 sec) 
+Demand Hit Rate: 50.3614
+OPTGen Hits: 8024
+OPTGen Access: 6388
+OPTGEN Hit Rate: 125.611
+Heartbeat CPU 0 instructions: 56000000 cycles: 64886905 heartbeat IPC: 1.11456 cumulative IPC: 0.813396 (Simulation time: 0 hr 1 min 57 sec) 
+Demand Hit Rate: 50.2937
+OPTGen Hits: 8188
+OPTGen Access: 6493
+OPTGEN Hit Rate: 126.105
+Heartbeat CPU 0 instructions: 57000000 cycles: 65701276 heartbeat IPC: 1.22794 cumulative IPC: 0.818711 (Simulation time: 0 hr 1 min 59 sec) 
+Demand Hit Rate: 50.3169
+OPTGen Hits: 8223
+OPTGen Access: 6523
+OPTGEN Hit Rate: 126.062
+Heartbeat CPU 0 instructions: 58000000 cycles: 67055918 heartbeat IPC: 0.738202 cumulative IPC: 0.81703 (Simulation time: 0 hr 2 min 1 sec) 
+Demand Hit Rate: 50.0359
+OPTGen Hits: 8352
+OPTGen Access: 6602
+OPTGEN Hit Rate: 126.507
+Heartbeat CPU 0 instructions: 59000002 cycles: 68426579 heartbeat IPC: 0.729576 cumulative IPC: 0.81522 (Simulation time: 0 hr 2 min 3 sec) 
+Demand Hit Rate: 49.9248
+OPTGen Hits: 8436
+OPTGen Access: 6641
+OPTGEN Hit Rate: 127.029
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 60000000 cycles: 70023226 heartbeat IPC: 0.626311 cumulative IPC: 0.810774 (Simulation time: 0 hr 2 min 5 sec) 
+Demand Hit Rate: 49.9336
+OPTGen Hits: 8570
+OPTGen Access: 6727
+OPTGEN Hit Rate: 127.397
+Heartbeat CPU 0 instructions: 61000002 cycles: 71437494 heartbeat IPC: 0.707081 cumulative IPC: 0.808656 (Simulation time: 0 hr 2 min 7 sec) 
+Demand Hit Rate: 49.9419
+OPTGen Hits: 8644
+OPTGen Access: 6785
+OPTGEN Hit Rate: 127.399
+Heartbeat CPU 0 instructions: 62000001 cycles: 72934320 heartbeat IPC: 0.66808 cumulative IPC: 0.805682 (Simulation time: 0 hr 2 min 9 sec) 
+Demand Hit Rate: 49.9501
+OPTGen Hits: 8709
+OPTGen Access: 6838
+OPTGEN Hit Rate: 127.362
+Heartbeat CPU 0 instructions: 63000002 cycles: 74407340 heartbeat IPC: 0.678878 cumulative IPC: 0.803096 (Simulation time: 0 hr 2 min 11 sec) 
+Demand Hit Rate: 50.116
+OPTGen Hits: 8943
+OPTGen Access: 7038
+OPTGEN Hit Rate: 127.067
+Heartbeat CPU 0 instructions: 64000000 cycles: 75511949 heartbeat IPC: 0.905296 cumulative IPC: 0.804635 (Simulation time: 0 hr 2 min 13 sec) 
+Demand Hit Rate: 50.4744
+OPTGen Hits: 9118
+OPTGen Access: 7206
+OPTGEN Hit Rate: 126.533
+Heartbeat CPU 0 instructions: 65000003 cycles: 76333081 heartbeat IPC: 1.21783 cumulative IPC: 0.809211 (Simulation time: 0 hr 2 min 15 sec) 
+Demand Hit Rate: 50.6671
+OPTGen Hits: 9502
+OPTGen Access: 7523
+OPTGEN Hit Rate: 126.306
+Heartbeat CPU 0 instructions: 66000002 cycles: 77228899 heartbeat IPC: 1.1163 cumulative IPC: 0.812877 (Simulation time: 0 hr 2 min 17 sec) 
+Demand Hit Rate: 50.6605
+OPTGen Hits: 9662
+OPTGen Access: 7635
+OPTGEN Hit Rate: 126.549
+Heartbeat CPU 0 instructions: 67000000 cycles: 78043854 heartbeat IPC: 1.22706 cumulative IPC: 0.817327 (Simulation time: 0 hr 2 min 19 sec) 
+Demand Hit Rate: 50.6789
+OPTGen Hits: 9697
+OPTGen Access: 7665
+OPTGEN Hit Rate: 126.51
+Heartbeat CPU 0 instructions: 68000000 cycles: 79398218 heartbeat IPC: 0.738354 cumulative IPC: 0.815941 (Simulation time: 0 hr 2 min 21 sec) 
+Demand Hit Rate: 50.4265
+OPTGen Hits: 9824
+OPTGen Access: 7742
+OPTGEN Hit Rate: 126.892
+Heartbeat CPU 0 instructions: 69000002 cycles: 80767443 heartbeat IPC: 0.730342 cumulative IPC: 0.81445 (Simulation time: 0 hr 2 min 23 sec) 
+Demand Hit Rate: 50.3353
+OPTGen Hits: 9908
+OPTGen Access: 7782
+OPTGEN Hit Rate: 127.319
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 70000001 cycles: 82362441 heartbeat IPC: 0.626959 cumulative IPC: 0.81072 (Simulation time: 0 hr 2 min 25 sec) 
+Demand Hit Rate: 50.3382
+OPTGen Hits: 10044
+OPTGen Access: 7868
+OPTGEN Hit Rate: 127.656
+Heartbeat CPU 0 instructions: 71000002 cycles: 83775760 heartbeat IPC: 0.707555 cumulative IPC: 0.808933 (Simulation time: 0 hr 2 min 27 sec) 
+Demand Hit Rate: 50.3323
+OPTGen Hits: 10117
+OPTGen Access: 7925
+OPTGEN Hit Rate: 127.659
+Heartbeat CPU 0 instructions: 72000000 cycles: 85272035 heartbeat IPC: 0.668325 cumulative IPC: 0.806401 (Simulation time: 0 hr 2 min 30 sec) 
+Demand Hit Rate: 50.33
+OPTGen Hits: 10181
+OPTGen Access: 7977
+OPTGEN Hit Rate: 127.629
+Heartbeat CPU 0 instructions: 73000002 cycles: 86745776 heartbeat IPC: 0.678547 cumulative IPC: 0.804172 (Simulation time: 0 hr 2 min 32 sec) 
+Demand Hit Rate: 50.4648
+OPTGen Hits: 10416
+OPTGen Access: 8176
+OPTGEN Hit Rate: 127.397
+Heartbeat CPU 0 instructions: 74000002 cycles: 87851237 heartbeat IPC: 0.9046 cumulative IPC: 0.805468 (Simulation time: 0 hr 2 min 34 sec) 
+Demand Hit Rate: 50.7632
+OPTGen Hits: 10591
+OPTGen Access: 8343
+OPTGEN Hit Rate: 126.945
+Heartbeat CPU 0 instructions: 75000000 cycles: 88674008 heartbeat IPC: 1.2154 cumulative IPC: 0.809368 (Simulation time: 0 hr 2 min 36 sec) 
+Demand Hit Rate: 50.9113
+OPTGen Hits: 10978
+OPTGen Access: 8660
+OPTGEN Hit Rate: 126.767
+Heartbeat CPU 0 instructions: 76000000 cycles: 89571770 heartbeat IPC: 1.11388 cumulative IPC: 0.812497 (Simulation time: 0 hr 2 min 38 sec) 
+Demand Hit Rate: 50.8598
+OPTGen Hits: 11143
+OPTGen Access: 8765
+OPTGEN Hit Rate: 127.131
+Heartbeat CPU 0 instructions: 77000000 cycles: 90387933 heartbeat IPC: 1.22525 cumulative IPC: 0.816316 (Simulation time: 0 hr 2 min 40 sec) 
+Demand Hit Rate: 50.8752
+OPTGen Hits: 11178
+OPTGen Access: 8795
+OPTGEN Hit Rate: 127.095
+Heartbeat CPU 0 instructions: 78000000 cycles: 91743628 heartbeat IPC: 0.737629 cumulative IPC: 0.815125 (Simulation time: 0 hr 2 min 42 sec) 
+Demand Hit Rate: 50.6582
+OPTGen Hits: 11307
+OPTGen Access: 8874
+OPTGEN Hit Rate: 127.417
+Heartbeat CPU 0 instructions: 79000002 cycles: 93114289 heartbeat IPC: 0.729576 cumulative IPC: 0.813835 (Simulation time: 0 hr 2 min 44 sec) 
+Demand Hit Rate: 50.5712
+OPTGen Hits: 11391
+OPTGen Access: 8913
+OPTGEN Hit Rate: 127.802
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 80000000 cycles: 94710936 heartbeat IPC: 0.626311 cumulative IPC: 0.810599 (Simulation time: 0 hr 2 min 46 sec) 
+Demand Hit Rate: 50.5713
+OPTGen Hits: 11526
+OPTGen Access: 8999
+OPTGEN Hit Rate: 128.081
+Heartbeat CPU 0 instructions: 81000002 cycles: 96125204 heartbeat IPC: 0.707081 cumulative IPC: 0.809041 (Simulation time: 0 hr 2 min 48 sec) 
+Demand Hit Rate: 50.5734
+OPTGen Hits: 11600
+OPTGen Access: 9057
+OPTGEN Hit Rate: 128.078
+Heartbeat CPU 0 instructions: 82000001 cycles: 97622030 heartbeat IPC: 0.66808 cumulative IPC: 0.80683 (Simulation time: 0 hr 2 min 50 sec) 
+Demand Hit Rate: 50.5757
+OPTGen Hits: 11665
+OPTGen Access: 9110
+OPTGEN Hit Rate: 128.046
+Heartbeat CPU 0 instructions: 83000002 cycles: 99095297 heartbeat IPC: 0.678764 cumulative IPC: 0.804883 (Simulation time: 0 hr 2 min 52 sec) 
+Demand Hit Rate: 50.6894
+OPTGen Hits: 11899
+OPTGen Access: 9310
+OPTGEN Hit Rate: 127.809
+Heartbeat CPU 0 instructions: 84000000 cycles: 100200505 heartbeat IPC: 0.904805 cumulative IPC: 0.80601 (Simulation time: 0 hr 2 min 54 sec) 
+Demand Hit Rate: 50.9548
+OPTGen Hits: 12074
+OPTGen Access: 9478
+OPTGEN Hit Rate: 127.39
+Heartbeat CPU 0 instructions: 85000003 cycles: 101021010 heartbeat IPC: 1.21877 cumulative IPC: 0.809436 (Simulation time: 0 hr 2 min 56 sec) 
+Demand Hit Rate: 51.0882
+OPTGen Hits: 12458
+OPTGen Access: 9795
+OPTGEN Hit Rate: 127.187
+Heartbeat CPU 0 instructions: 86000002 cycles: 101917018 heartbeat IPC: 1.11606 cumulative IPC: 0.812191 (Simulation time: 0 hr 2 min 58 sec) 
+Demand Hit Rate: 51.0781
+OPTGen Hits: 12618
+OPTGen Access: 9907
+OPTGEN Hit Rate: 127.364
+Heartbeat CPU 0 instructions: 87000000 cycles: 102731897 heartbeat IPC: 1.22717 cumulative IPC: 0.815554 (Simulation time: 0 hr 3 min 0 sec) 
+Demand Hit Rate: 51.0911
+OPTGen Hits: 12653
+OPTGen Access: 9937
+OPTGEN Hit Rate: 127.332
+Heartbeat CPU 0 instructions: 88000000 cycles: 104085822 heartbeat IPC: 0.738593 cumulative IPC: 0.814532 (Simulation time: 0 hr 3 min 2 sec) 
+Demand Hit Rate: 50.8908
+OPTGen Hits: 12780
+OPTGen Access: 10014
+OPTGEN Hit Rate: 127.621
+Heartbeat CPU 0 instructions: 89000002 cycles: 105455047 heartbeat IPC: 0.730342 cumulative IPC: 0.813415 (Simulation time: 0 hr 3 min 4 sec) 
+Demand Hit Rate: 50.8175
+OPTGen Hits: 12864
+OPTGen Access: 10054
+OPTGEN Hit Rate: 127.949
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 90000001 cycles: 107050045 heartbeat IPC: 0.626959 cumulative IPC: 0.810579 (Simulation time: 0 hr 3 min 7 sec) 
+Demand Hit Rate: 50.8155
+OPTGen Hits: 13000
+OPTGen Access: 10140
+OPTGEN Hit Rate: 128.205
+Heartbeat CPU 0 instructions: 91000002 cycles: 108463173 heartbeat IPC: 0.707651 cumulative IPC: 0.809211 (Simulation time: 0 hr 3 min 9 sec) 
+Demand Hit Rate: 50.808
+OPTGen Hits: 13073
+OPTGen Access: 10197
+OPTGEN Hit Rate: 128.204
+Heartbeat CPU 0 instructions: 92000000 cycles: 109959131 heartbeat IPC: 0.668467 cumulative IPC: 0.807257 (Simulation time: 0 hr 3 min 11 sec) 
+Demand Hit Rate: 50.8037
+OPTGen Hits: 13137
+OPTGen Access: 10249
+OPTGEN Hit Rate: 128.178
+Heartbeat CPU 0 instructions: 93000002 cycles: 111433120 heartbeat IPC: 0.678432 cumulative IPC: 0.805519 (Simulation time: 0 hr 3 min 13 sec) 
+Demand Hit Rate: 50.9062
+OPTGen Hits: 13373
+OPTGen Access: 10449
+OPTGEN Hit Rate: 127.984
+Heartbeat CPU 0 instructions: 94000002 cycles: 112537520 heartbeat IPC: 0.905469 cumulative IPC: 0.806519 (Simulation time: 0 hr 3 min 15 sec) 
+Demand Hit Rate: 51.1359
+OPTGen Hits: 13548
+OPTGen Access: 10616
+OPTGEN Hit Rate: 127.619
+Heartbeat CPU 0 instructions: 95000000 cycles: 113357895 heartbeat IPC: 1.21895 cumulative IPC: 0.809563 (Simulation time: 0 hr 3 min 17 sec) 
+Demand Hit Rate: 51.243
+OPTGen Hits: 13935
+OPTGen Access: 10933
+OPTGEN Hit Rate: 127.458
+Heartbeat CPU 0 instructions: 96000000 cycles: 114255816 heartbeat IPC: 1.11368 cumulative IPC: 0.812 (Simulation time: 0 hr 3 min 19 sec) 
+Demand Hit Rate: 51.1937
+OPTGen Hits: 14099
+OPTGen Access: 11038
+OPTGEN Hit Rate: 127.731
+Heartbeat CPU 0 instructions: 97000000 cycles: 115070945 heartbeat IPC: 1.2268 cumulative IPC: 0.814995 (Simulation time: 0 hr 3 min 21 sec) 
+Demand Hit Rate: 51.2051
+OPTGen Hits: 14134
+OPTGen Access: 11068
+OPTGEN Hit Rate: 127.701
+Heartbeat CPU 0 instructions: 98000000 cycles: 116425995 heartbeat IPC: 0.73798 cumulative IPC: 0.814081 (Simulation time: 0 hr 3 min 23 sec) 
+Demand Hit Rate: 51.0286
+OPTGen Hits: 14263
+OPTGen Access: 11147
+OPTGEN Hit Rate: 127.954
+Heartbeat CPU 0 instructions: 99000002 cycles: 117796656 heartbeat IPC: 0.729576 cumulative IPC: 0.813079 (Simulation time: 0 hr 3 min 26 sec) 
+Demand Hit Rate: 50.9572
+OPTGen Hits: 14347
+OPTGen Access: 11186
+OPTGEN Hit Rate: 128.259
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 100000000 cycles: 119393303 heartbeat IPC: 0.626311 cumulative IPC: 0.810535 (Simulation time: 0 hr 3 min 28 sec) 
+Demand Hit Rate: 50.9543
+OPTGen Hits: 14482
+OPTGen Access: 11272
+OPTGEN Hit Rate: 128.478
+Heartbeat CPU 0 instructions: 101000002 cycles: 120807386 heartbeat IPC: 0.707173 cumulative IPC: 0.809303 (Simulation time: 0 hr 3 min 30 sec) 
+Demand Hit Rate: 50.9539
+OPTGen Hits: 14556
+OPTGen Access: 11330
+OPTGEN Hit Rate: 128.473
+Heartbeat CPU 0 instructions: 102000001 cycles: 122304139 heartbeat IPC: 0.668112 cumulative IPC: 0.807544 (Simulation time: 0 hr 3 min 32 sec) 
+Demand Hit Rate: 50.9539
+OPTGen Hits: 14621
+OPTGen Access: 11383
+OPTGEN Hit Rate: 128.446
+Heartbeat CPU 0 instructions: 103000002 cycles: 123776616 heartbeat IPC: 0.679128 cumulative IPC: 0.805988 (Simulation time: 0 hr 3 min 34 sec) 
+Demand Hit Rate: 51.0395
+OPTGen Hits: 14855
+OPTGen Access: 11583
+OPTGEN Hit Rate: 128.248
+Heartbeat CPU 0 instructions: 104000000 cycles: 124879994 heartbeat IPC: 0.906306 cumulative IPC: 0.806891 (Simulation time: 0 hr 3 min 36 sec) 
+Demand Hit Rate: 51.2502
+OPTGen Hits: 15030
+OPTGen Access: 11751
+OPTGEN Hit Rate: 127.904
+Heartbeat CPU 0 instructions: 105000003 cycles: 125700437 heartbeat IPC: 1.21886 cumulative IPC: 0.809627 (Simulation time: 0 hr 3 min 38 sec) 
+Demand Hit Rate: 51.3488
+OPTGen Hits: 15415
+OPTGen Access: 12068
+OPTGEN Hit Rate: 127.735
+Heartbeat CPU 0 instructions: 106000002 cycles: 126596445 heartbeat IPC: 1.11606 cumulative IPC: 0.811834 (Simulation time: 0 hr 3 min 40 sec) 
+Demand Hit Rate: 51.3381
+OPTGen Hits: 15575
+OPTGen Access: 12180
+OPTGEN Hit Rate: 127.874
+Heartbeat CPU 0 instructions: 107000000 cycles: 127411104 heartbeat IPC: 1.2275 cumulative IPC: 0.814538 (Simulation time: 0 hr 3 min 42 sec) 
+Demand Hit Rate: 51.3482
+OPTGen Hits: 15610
+OPTGen Access: 12210
+OPTGEN Hit Rate: 127.846
+Heartbeat CPU 0 instructions: 108000000 cycles: 128765050 heartbeat IPC: 0.738582 cumulative IPC: 0.813726 (Simulation time: 0 hr 3 min 44 sec) 
+Demand Hit Rate: 51.1823
+OPTGen Hits: 15737
+OPTGen Access: 12287
+OPTGEN Hit Rate: 128.078
+Heartbeat CPU 0 instructions: 109000002 cycles: 130134275 heartbeat IPC: 0.730342 cumulative IPC: 0.812833 (Simulation time: 0 hr 3 min 47 sec) 
+Demand Hit Rate: 51.121
+OPTGen Hits: 15821
+OPTGen Access: 12327
+OPTGEN Hit Rate: 128.344
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 110000001 cycles: 131729273 heartbeat IPC: 0.626959 cumulative IPC: 0.810545 (Simulation time: 0 hr 3 min 49 sec) 
+Demand Hit Rate: 51.1172
+OPTGen Hits: 15957
+OPTGen Access: 12413
+OPTGEN Hit Rate: 128.551
+Heartbeat CPU 0 instructions: 111000002 cycles: 133142407 heartbeat IPC: 0.707648 cumulative IPC: 0.809435 (Simulation time: 0 hr 3 min 51 sec) 
+Demand Hit Rate: 51.1096
+OPTGen Hits: 16030
+OPTGen Access: 12470
+OPTGEN Hit Rate: 128.549
+Heartbeat CPU 0 instructions: 112000000 cycles: 134638360 heartbeat IPC: 0.668469 cumulative IPC: 0.807842 (Simulation time: 0 hr 3 min 53 sec) 
+Demand Hit Rate: 51.1047
+OPTGen Hits: 16094
+OPTGen Access: 12522
+OPTGEN Hit Rate: 128.526
+Heartbeat CPU 0 instructions: 113000002 cycles: 136113104 heartbeat IPC: 0.678085 cumulative IPC: 0.806414 (Simulation time: 0 hr 3 min 55 sec) 
+Demand Hit Rate: 51.1848
+OPTGen Hits: 16330
+OPTGen Access: 12722
+OPTGEN Hit Rate: 128.36
+Heartbeat CPU 0 instructions: 114000002 cycles: 137217118 heartbeat IPC: 0.905786 cumulative IPC: 0.807226 (Simulation time: 0 hr 3 min 57 sec) 
+Demand Hit Rate: 51.3714
+OPTGen Hits: 16505
+OPTGen Access: 12889
+OPTGEN Hit Rate: 128.055
+Heartbeat CPU 0 instructions: 115000000 cycles: 138037631 heartbeat IPC: 1.21875 cumulative IPC: 0.809712 (Simulation time: 0 hr 4 min 0 sec) 
+Demand Hit Rate: 51.4526
+OPTGen Hits: 16893
+OPTGen Access: 13206
+OPTGEN Hit Rate: 127.919
+Heartbeat CPU 0 instructions: 116000000 cycles: 138935348 heartbeat IPC: 1.11394 cumulative IPC: 0.811709 (Simulation time: 0 hr 4 min 2 sec) 
+Demand Hit Rate: 51.4099
+OPTGen Hits: 17057
+OPTGen Access: 13311
+OPTGEN Hit Rate: 128.142
+Heartbeat CPU 0 instructions: 117000000 cycles: 139750501 heartbeat IPC: 1.22676 cumulative IPC: 0.814168 (Simulation time: 0 hr 4 min 4 sec) 
+Demand Hit Rate: 51.4189
+OPTGen Hits: 17092
+OPTGen Access: 13341
+OPTGEN Hit Rate: 128.116
+Heartbeat CPU 0 instructions: 118000000 cycles: 141105261 heartbeat IPC: 0.738138 cumulative IPC: 0.813427 (Simulation time: 0 hr 4 min 6 sec) 
+Demand Hit Rate: 51.2702
+OPTGen Hits: 17221
+OPTGen Access: 13420
+OPTGEN Hit Rate: 128.323
+Heartbeat CPU 0 instructions: 119000002 cycles: 142475922 heartbeat IPC: 0.729576 cumulative IPC: 0.812607 (Simulation time: 0 hr 4 min 8 sec) 
+Demand Hit Rate: 51.2098
+OPTGen Hits: 17305
+OPTGen Access: 13459
+OPTGEN Hit Rate: 128.576
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 120000000 cycles: 144072569 heartbeat IPC: 0.626311 cumulative IPC: 0.810511 (Simulation time: 0 hr 4 min 10 sec) 
+Demand Hit Rate: 51.2057
+OPTGen Hits: 17439
+OPTGen Access: 13545
+OPTGEN Hit Rate: 128.749
+Heartbeat CPU 0 instructions: 121000002 cycles: 145486837 heartbeat IPC: 0.707081 cumulative IPC: 0.80949 (Simulation time: 0 hr 4 min 12 sec) 
+Demand Hit Rate: 51.2042
+OPTGen Hits: 17512
+OPTGen Access: 13603
+OPTGEN Hit Rate: 128.736
+Heartbeat CPU 0 instructions: 122000001 cycles: 146983663 heartbeat IPC: 0.66808 cumulative IPC: 0.808029 (Simulation time: 0 hr 4 min 14 sec) 
+Demand Hit Rate: 51.2033
+OPTGen Hits: 17577
+OPTGen Access: 13656
+OPTGEN Hit Rate: 128.713
+Heartbeat CPU 0 instructions: 123000002 cycles: 148455394 heartbeat IPC: 0.679473 cumulative IPC: 0.806735 (Simulation time: 0 hr 4 min 16 sec) 
+Demand Hit Rate: 51.2717
+OPTGen Hits: 17811
+OPTGen Access: 13856
+OPTGEN Hit Rate: 128.544
+Heartbeat CPU 0 instructions: 124000000 cycles: 149559937 heartbeat IPC: 0.90535 cumulative IPC: 0.807474 (Simulation time: 0 hr 4 min 18 sec) 
+Demand Hit Rate: 51.4482
+OPTGen Hits: 17986
+OPTGen Access: 14024
+OPTGEN Hit Rate: 128.252
+Heartbeat CPU 0 instructions: 125000003 cycles: 150380774 heartbeat IPC: 1.21827 cumulative IPC: 0.809749 (Simulation time: 0 hr 4 min 21 sec) 
+Demand Hit Rate: 51.529
+OPTGen Hits: 18369
+OPTGen Access: 14341
+OPTGEN Hit Rate: 128.087
+Heartbeat CPU 0 instructions: 126000002 cycles: 151277050 heartbeat IPC: 1.11573 cumulative IPC: 0.811589 (Simulation time: 0 hr 4 min 23 sec) 
+Demand Hit Rate: 51.5185
+OPTGen Hits: 18529
+OPTGen Access: 14453
+OPTGEN Hit Rate: 128.202
+Heartbeat CPU 0 instructions: 127000000 cycles: 152091905 heartbeat IPC: 1.22721 cumulative IPC: 0.813848 (Simulation time: 0 hr 4 min 25 sec) 
+Demand Hit Rate: 51.5266
+OPTGen Hits: 18564
+OPTGen Access: 14483
+OPTGEN Hit Rate: 128.178
+Heartbeat CPU 0 instructions: 128000000 cycles: 153446009 heartbeat IPC: 0.738496 cumulative IPC: 0.813174 (Simulation time: 0 hr 4 min 27 sec) 
+Demand Hit Rate: 51.385
+OPTGen Hits: 18691
+OPTGen Access: 14560
+OPTGEN Hit Rate: 128.372
+Heartbeat CPU 0 instructions: 129000002 cycles: 154815234 heartbeat IPC: 0.730342 cumulative IPC: 0.812431 (Simulation time: 0 hr 4 min 29 sec) 
+Demand Hit Rate: 51.3325
+OPTGen Hits: 18775
+OPTGen Access: 14600
+OPTGEN Hit Rate: 128.596
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 130000001 cycles: 156410232 heartbeat IPC: 0.626959 cumulative IPC: 0.810512 (Simulation time: 0 hr 4 min 31 sec) 
+Demand Hit Rate: 51.3279
+OPTGen Hits: 18911
+OPTGen Access: 14686
+OPTGEN Hit Rate: 128.769
+Heartbeat CPU 0 instructions: 131000002 cycles: 157823551 heartbeat IPC: 0.707555 cumulative IPC: 0.809577 (Simulation time: 0 hr 4 min 33 sec) 
+Demand Hit Rate: 51.3207
+OPTGen Hits: 18984
+OPTGen Access: 14743
+OPTGEN Hit Rate: 128.766
+Heartbeat CPU 0 instructions: 132000000 cycles: 159319829 heartbeat IPC: 0.668324 cumulative IPC: 0.808232 (Simulation time: 0 hr 4 min 35 sec) 
+Demand Hit Rate: 51.3157
+OPTGen Hits: 19048
+OPTGen Access: 14795
+OPTGEN Hit Rate: 128.746
+Heartbeat CPU 0 instructions: 133000002 cycles: 160793703 heartbeat IPC: 0.678485 cumulative IPC: 0.807027 (Simulation time: 0 hr 4 min 37 sec) 
+Demand Hit Rate: 51.3776
+OPTGen Hits: 19283
+OPTGen Access: 14994
+OPTGEN Hit Rate: 128.605
+Heartbeat CPU 0 instructions: 134000002 cycles: 161899213 heartbeat IPC: 0.90456 cumulative IPC: 0.807702 (Simulation time: 0 hr 4 min 39 sec) 
+Demand Hit Rate: 51.5348
+OPTGen Hits: 19458
+OPTGen Access: 15161
+OPTGEN Hit Rate: 128.342
+Heartbeat CPU 0 instructions: 135000000 cycles: 162720486 heartbeat IPC: 1.21762 cumulative IPC: 0.809799 (Simulation time: 0 hr 4 min 41 sec) 
+Demand Hit Rate: 51.6027
+OPTGen Hits: 19844
+OPTGen Access: 15478
+OPTGEN Hit Rate: 128.208
+Heartbeat CPU 0 instructions: 136000000 cycles: 163618505 heartbeat IPC: 1.11356 cumulative IPC: 0.811489 (Simulation time: 0 hr 4 min 44 sec) 
+Demand Hit Rate: 51.5684
+OPTGen Hits: 20009
+OPTGen Access: 15583
+OPTGEN Hit Rate: 128.403
+Heartbeat CPU 0 instructions: 137000000 cycles: 164434998 heartbeat IPC: 1.22475 cumulative IPC: 0.813568 (Simulation time: 0 hr 4 min 46 sec) 
+Demand Hit Rate: 51.5759
+OPTGen Hits: 20044
+OPTGen Access: 15613
+OPTGEN Hit Rate: 128.38
+Heartbeat CPU 0 instructions: 138000000 cycles: 165790309 heartbeat IPC: 0.737838 cumulative IPC: 0.812941 (Simulation time: 0 hr 4 min 48 sec) 
+Demand Hit Rate: 51.4474
+OPTGen Hits: 20173
+OPTGen Access: 15692
+OPTGEN Hit Rate: 128.556
+Heartbeat CPU 0 instructions: 139000002 cycles: 167160970 heartbeat IPC: 0.729576 cumulative IPC: 0.812248 (Simulation time: 0 hr 4 min 50 sec) 
+Demand Hit Rate: 51.3951
+OPTGen Hits: 20257
+OPTGen Access: 15731
+OPTGEN Hit Rate: 128.771
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 140000000 cycles: 168757617 heartbeat IPC: 0.626311 cumulative IPC: 0.810466 (Simulation time: 0 hr 4 min 52 sec) 
+Demand Hit Rate: 51.3905
+OPTGen Hits: 20392
+OPTGen Access: 15817
+OPTGEN Hit Rate: 128.925
+Heartbeat CPU 0 instructions: 141000002 cycles: 170171885 heartbeat IPC: 0.707081 cumulative IPC: 0.809596 (Simulation time: 0 hr 4 min 54 sec) 
+Demand Hit Rate: 51.3885
+OPTGen Hits: 20466
+OPTGen Access: 15875
+OPTGEN Hit Rate: 128.92
+Heartbeat CPU 0 instructions: 142000001 cycles: 171668735 heartbeat IPC: 0.668069 cumulative IPC: 0.808346 (Simulation time: 0 hr 4 min 56 sec) 
+Demand Hit Rate: 51.387
+OPTGen Hits: 20531
+OPTGen Access: 15928
+OPTGEN Hit Rate: 128.899
+Heartbeat CPU 0 instructions: 143000002 cycles: 173140915 heartbeat IPC: 0.679265 cumulative IPC: 0.807234 (Simulation time: 0 hr 4 min 58 sec) 
+Demand Hit Rate: 51.4438
+OPTGen Hits: 20765
+OPTGen Access: 16128
+OPTGEN Hit Rate: 128.751
+Heartbeat CPU 0 instructions: 144000000 cycles: 174246291 heartbeat IPC: 0.904668 cumulative IPC: 0.80786 (Simulation time: 0 hr 5 min 0 sec) 
+Demand Hit Rate: 51.5945
+OPTGen Hits: 20940
+OPTGen Access: 16296
+OPTGEN Hit Rate: 128.498
+Heartbeat CPU 0 instructions: 145000003 cycles: 175066727 heartbeat IPC: 1.21887 cumulative IPC: 0.809811 (Simulation time: 0 hr 5 min 2 sec) 
+Demand Hit Rate: 51.6616
+OPTGen Hits: 21324
+OPTGen Access: 16613
+OPTGEN Hit Rate: 128.357
+Heartbeat CPU 0 instructions: 146000002 cycles: 175962990 heartbeat IPC: 1.11574 cumulative IPC: 0.811388 (Simulation time: 0 hr 5 min 4 sec) 
+Demand Hit Rate: 51.6516
+OPTGen Hits: 21483
+OPTGen Access: 16725
+OPTGEN Hit Rate: 128.448
+Heartbeat CPU 0 instructions: 147000000 cycles: 176777937 heartbeat IPC: 1.22707 cumulative IPC: 0.813329 (Simulation time: 0 hr 5 min 6 sec) 
+Demand Hit Rate: 51.6584
+OPTGen Hits: 21518
+OPTGen Access: 16755
+OPTGEN Hit Rate: 128.427
+Heartbeat CPU 0 instructions: 148000000 cycles: 178131801 heartbeat IPC: 0.738627 cumulative IPC: 0.812754 (Simulation time: 0 hr 5 min 8 sec) 
+Demand Hit Rate: 51.5349
+OPTGen Hits: 21645
+OPTGen Access: 16832
+OPTGEN Hit Rate: 128.594
+Heartbeat CPU 0 instructions: 149000002 cycles: 179501026 heartbeat IPC: 0.730342 cumulative IPC: 0.812118 (Simulation time: 0 hr 5 min 10 sec) 
+Demand Hit Rate: 51.4889
+OPTGen Hits: 21729
+OPTGen Access: 16872
+OPTGEN Hit Rate: 128.787
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 150000001 cycles: 181096024 heartbeat IPC: 0.626959 cumulative IPC: 0.810467 (Simulation time: 0 hr 5 min 12 sec) 
+Demand Hit Rate: 51.4842
+OPTGen Hits: 21865
+OPTGen Access: 16958
+OPTGEN Hit Rate: 128.936
+Heartbeat CPU 0 instructions: 151000002 cycles: 182509152 heartbeat IPC: 0.707651 cumulative IPC: 0.809661 (Simulation time: 0 hr 5 min 14 sec) 
+Demand Hit Rate: 51.4773
+OPTGen Hits: 21935
+OPTGen Access: 17015
+OPTGEN Hit Rate: 128.916
+Heartbeat CPU 0 instructions: 152000000 cycles: 184005034 heartbeat IPC: 0.668501 cumulative IPC: 0.8085 (Simulation time: 0 hr 5 min 16 sec) 
+Demand Hit Rate: 51.4725
+OPTGen Hits: 21999
+OPTGen Access: 17067
+OPTGEN Hit Rate: 128.898
+Heartbeat CPU 0 instructions: 153000002 cycles: 185478455 heartbeat IPC: 0.678694 cumulative IPC: 0.807456 (Simulation time: 0 hr 5 min 18 sec) 
+Demand Hit Rate: 51.5277
+OPTGen Hits: 22235
+OPTGen Access: 17267
+OPTGEN Hit Rate: 128.772
+Heartbeat CPU 0 instructions: 154000002 cycles: 186582976 heartbeat IPC: 0.90537 cumulative IPC: 0.808043 (Simulation time: 0 hr 5 min 20 sec) 
+Demand Hit Rate: 51.6634
+OPTGen Hits: 22410
+OPTGen Access: 17434
+OPTGEN Hit Rate: 128.542
+Heartbeat CPU 0 instructions: 155000000 cycles: 187403507 heartbeat IPC: 1.21872 cumulative IPC: 0.809862 (Simulation time: 0 hr 5 min 23 sec) 
+Demand Hit Rate: 51.7204
+OPTGen Hits: 22797
+OPTGen Access: 17751
+OPTGEN Hit Rate: 128.427
+Heartbeat CPU 0 instructions: 156000000 cycles: 188300681 heartbeat IPC: 1.11461 cumulative IPC: 0.811331 (Simulation time: 0 hr 5 min 25 sec) 
+Demand Hit Rate: 51.6867
+OPTGen Hits: 22961
+OPTGen Access: 17856
+OPTGEN Hit Rate: 128.59
+Heartbeat CPU 0 instructions: 157000000 cycles: 189116501 heartbeat IPC: 1.22576 cumulative IPC: 0.81314 (Simulation time: 0 hr 5 min 28 sec) 
+Demand Hit Rate: 51.693
+OPTGen Hits: 22996
+OPTGen Access: 17886
+OPTGEN Hit Rate: 128.57
+Heartbeat CPU 0 instructions: 158000000 cycles: 190471981 heartbeat IPC: 0.737746 cumulative IPC: 0.812597 (Simulation time: 0 hr 5 min 30 sec) 
+Demand Hit Rate: 51.58
+OPTGen Hits: 23125
+OPTGen Access: 17965
+OPTGEN Hit Rate: 128.723
+Heartbeat CPU 0 instructions: 159000002 cycles: 191842642 heartbeat IPC: 0.729576 cumulative IPC: 0.811997 (Simulation time: 0 hr 5 min 32 sec) 
+Demand Hit Rate: 51.5338
+OPTGen Hits: 23209
+OPTGen Access: 18004
+OPTGEN Hit Rate: 128.91
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 160000000 cycles: 193439289 heartbeat IPC: 0.626311 cumulative IPC: 0.810447 (Simulation time: 0 hr 5 min 34 sec) 
+Demand Hit Rate: 51.5291
+OPTGen Hits: 23344
+OPTGen Access: 18090
+OPTGEN Hit Rate: 129.044
+Heartbeat CPU 0 instructions: 161000002 cycles: 194853557 heartbeat IPC: 0.707081 cumulative IPC: 0.809688 (Simulation time: 0 hr 5 min 36 sec) 
+Demand Hit Rate: 51.5269
+OPTGen Hits: 23417
+OPTGen Access: 18148
+OPTGEN Hit Rate: 129.034
+Heartbeat CPU 0 instructions: 162000001 cycles: 196350157 heartbeat IPC: 0.668181 cumulative IPC: 0.808597 (Simulation time: 0 hr 5 min 38 sec) 
+Demand Hit Rate: 51.5252
+OPTGen Hits: 23482
+OPTGen Access: 18201
+OPTGEN Hit Rate: 129.015
+Heartbeat CPU 0 instructions: 163000002 cycles: 197822794 heartbeat IPC: 0.679055 cumulative IPC: 0.807622 (Simulation time: 0 hr 5 min 41 sec) 
+Demand Hit Rate: 51.5736
+OPTGen Hits: 23716
+OPTGen Access: 18401
+OPTGEN Hit Rate: 128.884
+Heartbeat CPU 0 instructions: 164000000 cycles: 198927406 heartbeat IPC: 0.905293 cumulative IPC: 0.808171 (Simulation time: 0 hr 5 min 43 sec) 
+Demand Hit Rate: 51.7036
+OPTGen Hits: 23891
+OPTGen Access: 18569
+OPTGEN Hit Rate: 128.661
+Heartbeat CPU 0 instructions: 165000003 cycles: 199747493 heartbeat IPC: 1.21939 cumulative IPC: 0.809878 (Simulation time: 0 hr 5 min 45 sec) 
+Demand Hit Rate: 51.7594
+OPTGen Hits: 24276
+OPTGen Access: 18886
+OPTGEN Hit Rate: 128.54
+Heartbeat CPU 0 instructions: 166000002 cycles: 200643562 heartbeat IPC: 1.11598 cumulative IPC: 0.81126 (Simulation time: 0 hr 5 min 47 sec) 
+Demand Hit Rate: 51.75
+OPTGen Hits: 24436
+OPTGen Access: 18998
+OPTGEN Hit Rate: 128.624
+Heartbeat CPU 0 instructions: 167000000 cycles: 201458220 heartbeat IPC: 1.22751 cumulative IPC: 0.812961 (Simulation time: 0 hr 5 min 49 sec) 
+Demand Hit Rate: 51.7559
+OPTGen Hits: 24471
+OPTGen Access: 19028
+OPTGEN Hit Rate: 128.605
+Heartbeat CPU 0 instructions: 168000000 cycles: 202811960 heartbeat IPC: 0.738694 cumulative IPC: 0.81246 (Simulation time: 0 hr 5 min 51 sec) 
+Demand Hit Rate: 51.6465
+OPTGen Hits: 24598
+OPTGen Access: 19105
+OPTGEN Hit Rate: 128.752
+Heartbeat CPU 0 instructions: 169000002 cycles: 204181185 heartbeat IPC: 0.730342 cumulative IPC: 0.811904 (Simulation time: 0 hr 5 min 53 sec) 
+Demand Hit Rate: 51.6056
+OPTGen Hits: 24681
+OPTGen Access: 19145
+OPTGEN Hit Rate: 128.916
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 170000001 cycles: 205776183 heartbeat IPC: 0.626959 cumulative IPC: 0.810455 (Simulation time: 0 hr 5 min 55 sec) 
+Demand Hit Rate: 51.6008
+OPTGen Hits: 24817
+OPTGen Access: 19231
+OPTGEN Hit Rate: 129.047
+Heartbeat CPU 0 instructions: 171000002 cycles: 207189317 heartbeat IPC: 0.707648 cumulative IPC: 0.809746 (Simulation time: 0 hr 5 min 57 sec) 
+Demand Hit Rate: 51.5944
+OPTGen Hits: 24890
+OPTGen Access: 19288
+OPTGEN Hit Rate: 129.044
+Heartbeat CPU 0 instructions: 172000000 cycles: 208685270 heartbeat IPC: 0.668469 cumulative IPC: 0.808723 (Simulation time: 0 hr 5 min 59 sec) 
+Demand Hit Rate: 51.5898
+OPTGen Hits: 24954
+OPTGen Access: 19340
+OPTGEN Hit Rate: 129.028
+Heartbeat CPU 0 instructions: 173000002 cycles: 210159349 heartbeat IPC: 0.678391 cumulative IPC: 0.807799 (Simulation time: 0 hr 6 min 1 sec) 
+Demand Hit Rate: 51.6375
+OPTGen Hits: 25190
+OPTGen Access: 19540
+OPTGEN Hit Rate: 128.915
+Heartbeat CPU 0 instructions: 174000002 cycles: 211263388 heartbeat IPC: 0.905765 cumulative IPC: 0.808316 (Simulation time: 0 hr 6 min 3 sec) 
+Demand Hit Rate: 51.7569
+OPTGen Hits: 25365
+OPTGen Access: 19707
+OPTGEN Hit Rate: 128.711
+Heartbeat CPU 0 instructions: 175000000 cycles: 212085185 heartbeat IPC: 1.21684 cumulative IPC: 0.809916 (Simulation time: 0 hr 6 min 6 sec) 
+Demand Hit Rate: 51.8047
+OPTGen Hits: 25752
+OPTGen Access: 20024
+OPTGEN Hit Rate: 128.606
+Heartbeat CPU 0 instructions: 176000000 cycles: 212982364 heartbeat IPC: 1.1146 cumulative IPC: 0.811212 (Simulation time: 0 hr 6 min 8 sec) 
+Demand Hit Rate: 51.7743
+OPTGen Hits: 25916
+OPTGen Access: 20129
+OPTGEN Hit Rate: 128.75
+Heartbeat CPU 0 instructions: 177000000 cycles: 213797824 heartbeat IPC: 1.2263 cumulative IPC: 0.812812 (Simulation time: 0 hr 6 min 10 sec) 
+Demand Hit Rate: 51.7798
+OPTGen Hits: 25951
+OPTGen Access: 20159
+OPTGEN Hit Rate: 128.732
+Heartbeat CPU 0 instructions: 178000000 cycles: 215152568 heartbeat IPC: 0.738147 cumulative IPC: 0.812337 (Simulation time: 0 hr 6 min 11 sec) 
+Demand Hit Rate: 51.6789
+OPTGen Hits: 26080
+OPTGen Access: 20238
+OPTGEN Hit Rate: 128.866
+Heartbeat CPU 0 instructions: 179000002 cycles: 216523229 heartbeat IPC: 0.729576 cumulative IPC: 0.811808 (Simulation time: 0 hr 6 min 13 sec) 
+Demand Hit Rate: 51.6376
+OPTGen Hits: 26164
+OPTGen Access: 20277
+OPTGEN Hit Rate: 129.033
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 180000000 cycles: 218119876 heartbeat IPC: 0.626311 cumulative IPC: 0.810436 (Simulation time: 0 hr 6 min 15 sec) 
+Demand Hit Rate: 51.6329
+OPTGen Hits: 26298
+OPTGen Access: 20363
+OPTGEN Hit Rate: 129.146
+Heartbeat CPU 0 instructions: 181000002 cycles: 219534144 heartbeat IPC: 0.707081 cumulative IPC: 0.809764 (Simulation time: 0 hr 6 min 17 sec) 
+Demand Hit Rate: 51.6307
+OPTGen Hits: 26372
+OPTGen Access: 20421
+OPTGEN Hit Rate: 129.142
+Heartbeat CPU 0 instructions: 182000001 cycles: 221030970 heartbeat IPC: 0.66808 cumulative IPC: 0.808795 (Simulation time: 0 hr 6 min 19 sec) 
+Demand Hit Rate: 51.6289
+OPTGen Hits: 26437
+OPTGen Access: 20474
+OPTGEN Hit Rate: 129.125
+Heartbeat CPU 0 instructions: 183000002 cycles: 222503407 heartbeat IPC: 0.679147 cumulative IPC: 0.807928 (Simulation time: 0 hr 6 min 21 sec) 
+Demand Hit Rate: 51.6711
+OPTGen Hits: 26671
+OPTGen Access: 20674
+OPTGEN Hit Rate: 129.007
+Heartbeat CPU 0 instructions: 184000000 cycles: 223608175 heartbeat IPC: 0.905166 cumulative IPC: 0.808413 (Simulation time: 0 hr 6 min 23 sec) 
+Demand Hit Rate: 51.7876
+OPTGen Hits: 26846
+OPTGen Access: 20842
+OPTGEN Hit Rate: 128.807
+Heartbeat CPU 0 instructions: 185000003 cycles: 224429479 heartbeat IPC: 1.21758 cumulative IPC: 0.809925 (Simulation time: 0 hr 6 min 25 sec) 
+Demand Hit Rate: 51.8376
+OPTGen Hits: 27230
+OPTGen Access: 21159
+OPTGEN Hit Rate: 128.692
+Heartbeat CPU 0 instructions: 186000002 cycles: 225325322 heartbeat IPC: 1.11627 cumulative IPC: 0.811155 (Simulation time: 0 hr 6 min 27 sec) 
+Demand Hit Rate: 51.8288
+OPTGen Hits: 27388
+OPTGen Access: 21271
+OPTGEN Hit Rate: 128.757
+Heartbeat CPU 0 instructions: 187000000 cycles: 226141384 heartbeat IPC: 1.22539 cumulative IPC: 0.812665 (Simulation time: 0 hr 6 min 29 sec) 
+Demand Hit Rate: 51.8339
+OPTGen Hits: 27423
+OPTGen Access: 21301
+OPTGEN Hit Rate: 128.74
+Heartbeat CPU 0 instructions: 188000000 cycles: 227495804 heartbeat IPC: 0.738323 cumulative IPC: 0.812218 (Simulation time: 0 hr 6 min 32 sec) 
+Demand Hit Rate: 51.7356
+OPTGen Hits: 27550
+OPTGen Access: 21378
+OPTGEN Hit Rate: 128.871
+Heartbeat CPU 0 instructions: 189000002 cycles: 228865029 heartbeat IPC: 0.730342 cumulative IPC: 0.811723 (Simulation time: 0 hr 6 min 34 sec) 
+Demand Hit Rate: 51.6988
+OPTGen Hits: 27634
+OPTGen Access: 21418
+OPTGEN Hit Rate: 129.022
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 190000001 cycles: 230460027 heartbeat IPC: 0.626959 cumulative IPC: 0.810432 (Simulation time: 0 hr 6 min 36 sec) 
+Demand Hit Rate: 51.6942
+OPTGen Hits: 27770
+OPTGen Access: 21504
+OPTGEN Hit Rate: 129.139
+Heartbeat CPU 0 instructions: 191000002 cycles: 231873346 heartbeat IPC: 0.707555 cumulative IPC: 0.809799 (Simulation time: 0 hr 6 min 38 sec) 
+Demand Hit Rate: 51.6881
+OPTGen Hits: 27843
+OPTGen Access: 21561
+OPTGEN Hit Rate: 129.136
+Heartbeat CPU 0 instructions: 192000000 cycles: 233369624 heartbeat IPC: 0.668324 cumulative IPC: 0.808884 (Simulation time: 0 hr 6 min 40 sec) 
+Demand Hit Rate: 51.6838
+OPTGen Hits: 27907
+OPTGen Access: 21613
+OPTGEN Hit Rate: 129.121
+Heartbeat CPU 0 instructions: 193000002 cycles: 234843003 heartbeat IPC: 0.678713 cumulative IPC: 0.808059 (Simulation time: 0 hr 6 min 42 sec) 
+Demand Hit Rate: 51.7234
+OPTGen Hits: 28142
+OPTGen Access: 21812
+OPTGEN Hit Rate: 129.021
+Heartbeat CPU 0 instructions: 194000002 cycles: 235948558 heartbeat IPC: 0.904523 cumulative IPC: 0.808515 (Simulation time: 0 hr 6 min 44 sec) 
+Demand Hit Rate: 51.83
+OPTGen Hits: 28317
+OPTGen Access: 21979
+OPTGEN Hit Rate: 128.837
+Heartbeat CPU 0 instructions: 195000000 cycles: 236771843 heartbeat IPC: 1.21464 cumulative IPC: 0.809941 (Simulation time: 0 hr 6 min 46 sec) 
+Demand Hit Rate: 51.8731
+OPTGen Hits: 28704
+OPTGen Access: 22296
+OPTGEN Hit Rate: 128.741
+Heartbeat CPU 0 instructions: 196000000 cycles: 237669601 heartbeat IPC: 1.11389 cumulative IPC: 0.8111 (Simulation time: 0 hr 6 min 48 sec) 
+Demand Hit Rate: 51.8478
+OPTGen Hits: 28869
+OPTGen Access: 22401
+OPTGEN Hit Rate: 128.874
+Heartbeat CPU 0 instructions: 197000000 cycles: 238485185 heartbeat IPC: 1.22612 cumulative IPC: 0.812532 (Simulation time: 0 hr 6 min 50 sec) 
+Demand Hit Rate: 51.8526
+OPTGen Hits: 28904
+OPTGen Access: 22431
+OPTGEN Hit Rate: 128.857
+Heartbeat CPU 0 instructions: 198000000 cycles: 239840606 heartbeat IPC: 0.737778 cumulative IPC: 0.812106 (Simulation time: 0 hr 6 min 52 sec) 
+Demand Hit Rate: 51.7615
+OPTGen Hits: 29033
+OPTGen Access: 22510
+OPTGEN Hit Rate: 128.978
+Heartbeat CPU 0 instructions: 199000002 cycles: 241211267 heartbeat IPC: 0.729576 cumulative IPC: 0.811632 (Simulation time: 0 hr 6 min 54 sec) 
+Demand Hit Rate: 51.7241
+OPTGen Hits: 29117
+OPTGen Access: 22549
+OPTGEN Hit Rate: 129.128
+*** Reached end of trace for Core: 0 Repeating trace: trace/bzip2_10M.trace
+Heartbeat CPU 0 instructions: 200000000 cycles: 242807914 heartbeat IPC: 0.626311 cumulative IPC: 0.810403 (Simulation time: 0 hr 6 min 56 sec) 
+Demand Hit Rate: 51.7196
+OPTGen Hits: 29252
+OPTGen Access: 22635
+OPTGEN Hit Rate: 129.233
+Heartbeat CPU 0 instructions: 201000002 cycles: 244222182 heartbeat IPC: 0.707081 cumulative IPC: 0.809799 (Simulation time: 0 hr 6 min 58 sec) 
+Demand Hit Rate: 51.7174
+OPTGen Hits: 29326
+OPTGen Access: 22693
+OPTGEN Hit Rate: 129.229
+Heartbeat CPU 0 instructions: 202000001 cycles: 245718996 heartbeat IPC: 0.668085 cumulative IPC: 0.808928 (Simulation time: 0 hr 7 min 0 sec) 
+Demand Hit Rate: 51.7155
+OPTGen Hits: 29391
+OPTGen Access: 22746
+OPTGEN Hit Rate: 129.214
+Heartbeat CPU 0 instructions: 203000002 cycles: 247190711 heartbeat IPC: 0.67948 cumulative IPC: 0.80815 (Simulation time: 0 hr 7 min 2 sec) 
+Demand Hit Rate: 51.7529
+OPTGen Hits: 29625
+OPTGen Access: 22946
+OPTGEN Hit Rate: 129.107
+Heartbeat CPU 0 instructions: 204000000 cycles: 248295882 heartbeat IPC: 0.904836 cumulative IPC: 0.808585 (Simulation time: 0 hr 7 min 4 sec) 
+Demand Hit Rate: 51.8564
+OPTGen Hits: 29800
+OPTGen Access: 23114
+OPTGEN Hit Rate: 128.926
+Heartbeat CPU 0 instructions: 205000003 cycles: 249116248 heartbeat IPC: 1.21897 cumulative IPC: 0.809948 (Simulation time: 0 hr 7 min 6 sec) 
+Demand Hit Rate: 51.8994
+OPTGen Hits: 30185
+OPTGen Access: 23431
+OPTGEN Hit Rate: 128.825
+Finished CPU 0 instructions: 200000000 cycles: 246929457 cummulative IPC: 0.809948 (Simulation time: 0 hr 7 min 6 sec) 
+
+ChampSim completed all CPUs
+
+Region of Interest Statistics
+
+CPU 0 cummulative IPC: 0.809948 instructions: 200000000 cycles: 246929457
+LLC TOTAL     ACCESS:    3358015  HIT:    3312474  MISS:      45541
+LLC LOAD      ACCESS:    1128509  HIT:    1119054  MISS:       9455
+LLC RFO       ACCESS:     329111  HIT:     307110  MISS:      22001
+LLC PREFETCH  ACCESS:    1458090  HIT:    1444468  MISS:      13622
+LLC WRITEBACK ACCESS:     442305  HIT:     441842  MISS:        463
+Demand Hit Rate: 51.8994
+Final OPTGen Hits: 30185
+Final OPTGen Access: 23431
+Final OPTGEN Hit Rate: 128.825
